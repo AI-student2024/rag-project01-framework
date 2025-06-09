@@ -1,0 +1,2503 @@
+{
+  "filename": "emc.pdf",
+  "total_chunks": 115,
+  "total_pages": 6,
+  "loading_method": "unstructured",
+  "loading_strategy": "hi_res",
+  "chunking_strategy": "basic",
+  "chunking_method": "loaded",
+  "timestamp": "2025-06-06T18:31:16.630498",
+  "chunks": [
+    {
+      "content": "明白了！如果设立项目公司（SPV）在当前阶段不可行或对方不愿接受，我们可以调整策略，采用一种轻资产、低 门槛、高保障的合作模式，既满足你对“风险控制+收益保障”的需求，又降低对方的配合成本。",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "detection_class_prob": 0.5864246487617493,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 82.40907287597656), (144.4444462481478, 163.0582733154297), (1511.1247278123365, 163.0582733154297), (1511.1247278123365, 82.40907287597656)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16ccfad0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Header",
+        "id": "d5eeaefe23bf57e7aa27496a5bf49c11",
+        "category": "Header"
+      }
+    },
+    {
+      "content": "🎯 目标重申",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "detection_class_prob": 0.6577848792076111,
+        "coordinates": "CoordinatesMetadata(points=((690.7009792812086, 322.77778356425824), (690.7009792812086, 391.3912658691406), (964.8244458199651, 391.3912658691406), (964.8244458199651, 322.77778356425824)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff1983bf90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d5eeaefe23bf57e7aa27496a5bf49c11",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "954c40378dace152c0993b192ec93af8",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "你不希望：",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.7012044191360474,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 423.5272521972656), (144.4444462481478, 458.3660888671875), (279.86111593911966, 458.3660888671875), (279.86111593911966, 423.5272521972656)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18caca50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "954c40378dace152c0993b192ec93af8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "32f6d1d6f06e17d2d73ee92abb25f1c1",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "对方中途不配合；",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.7351669073104858,
+        "coordinates": "CoordinatesMetadata(points=((148.20179748535156, 494.38580322265625), (148.20179748535156, 526.5326709272838), (393.5980976459119, 526.5326709272838), (393.5980976459119, 494.38580322265625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c994d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "954c40378dace152c0993b192ec93af8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "6be72c293a4a80bfc9e131c3585e3fba",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "对方截留医院回款；",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.7966693043708801,
+        "coordinates": "CoordinatesMetadata(points=((142.1324920654297, 550.6040649414062), (142.1324920654297, 582.7826721835335), (420.68143158410624, 582.7826721835335), (420.68143158410624, 550.6040649414062)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c99d10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "954c40378dace152c0993b192ec93af8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "075a9b05cf8db9d2c6df05fc4e4c7c03",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "对方恶意拖欠分成；",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.7146445512771606,
+        "coordinates": "CoordinatesMetadata(points=((146.73439025878906, 604.5327758789062), (146.73439025878906, 637.6290283203125), (420.68143158410624, 637.6290283203125), (420.68143158410624, 604.5327758789062)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c9aed0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "954c40378dace152c0993b192ec93af8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "1d7dbede9ab848af49f8bfea5fd3263a",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "自己处于被动地位，缺乏话语权。",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.7449889183044434,
+        "coordinates": "CoordinatesMetadata(points=((141.68026733398438, 658.810791015625), (141.68026733398438, 693.4090576171875), (583.1814352132726, 693.4090576171875), (583.1814352132726, 658.810791015625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c9bf50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "954c40378dace152c0993b192ec93af8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "992e607fd04e9f77f69ad026bd6948cf",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "因此我们需要设计一个 “无需成立新公司”、“资金透明可控”、“责任明确”的合作机制。",
+      "metadata": {
+        "chunk_id": 8,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2,
+        "detection_class_prob": 0.7794132828712463,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 729.3070678710938), (144.4444462481478, 760.0579223632812), (1180.3819693840824, 760.0579223632812), (1180.3819693840824, 729.3070678710938)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c9b790>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "954c40378dace152c0993b192ec93af8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "5de710b1ba74e10904e7f00a528eb0c1",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "✅ 推荐方案：联合体合作 + 共管账户 + 分阶段履约担保",
+      "metadata": {
+        "chunk_id": 9,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6,
+        "detection_class_prob": 0.5740529894828796,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 959.0277977738401), (144.4444462481478, 1194.8035888671875), (1520.5838103152562, 1194.8035888671875), (1520.5838103152562, 959.0277977738401)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c98910>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d5eeaefe23bf57e7aa27496a5bf49c11",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "3f11994422dc43ddb71b9f56b2704ee3",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "一、合作结构图示 ",
+      "metadata": {
+        "chunk_id": 10,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.3085310459136963,
+        "coordinates": "CoordinatesMetadata(points=((632.7582696538217, 1362.25146484375), (632.7582696538217, 1422.2926025390625), (1022.7581908638185, 1422.2926025390625), (1022.7581908638185, 1362.25146484375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c9ae50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Image",
+        "id": "3f367a0137491504b99330e543251755",
+        "category": "Image"
+      }
+    },
+    {
+      "content": "角色",
+      "metadata": {
+        "chunk_id": 11,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 1486.949359043253), (161.1111132870367, 1514.0326929814478), (215.2777811634254, 1514.0326929814478), (215.2777811634254, 1486.949359043253)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c9a850>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "ae17c6600e50cd2a63d920bcb145b6e4",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "ARES",
+      "metadata": {
+        "chunk_id": 12,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((441.0, 1479.0), (441.0, 1522.0), (489.0, 1522.0), (489.0, 1479.0)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bc410>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "f8d6082c146ade9d0255ecc775e97532",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "职责",
+      "metadata": {
+        "chunk_id": 13,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((441.5147653827173, 1486.949359043253), (441.5147653827173, 1514.0326929814478), (495.68143325910603, 1514.0326929814478), (495.68143325910603, 1486.949359043253)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d79590>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "70a1c78c40cf1198b6c209f486033bbd",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "风险承担",
+      "metadata": {
+        "chunk_id": 14,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((1055.447070760537, 1486.949359043253), (1055.447070760537, 1514.0326929814478), (1163.7804065133143, 1514.0326929814478), (1163.7804065133143, 1486.949359043253)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7a890>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "6d046ed457abf77968b32826d86a8da6",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "你公司",
+      "metadata": {
+        "chunk_id": 15,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 1557.7826939585311), (161.1111132870367, 1584.8660278967254), (242.36111510161976, 1584.8660278967254), (242.36111510161976, 1557.7826939585311)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7aa50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "088fa1b87dead99fb4640715f34e693a",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "技术总包、设备采购、施工运维、节能兜底",
+      "metadata": {
+        "chunk_id": 16,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((441.5147653827173, 1557.7826939585311), (441.5147653827173, 1584.8660278967254), (956.0981102084104, 1584.8660278967254), (956.0981102084104, 1557.7826939585311)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d79f50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "76f391337b56ead45cec7af34ab1eccf",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "承担主要执行和投资风险",
+      "metadata": {
+        "chunk_id": 17,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((1055.447070760537, 1557.7826939585311), (1055.447070760537, 1584.8660278967254), (1353.3637440806751, 1584.8660278967254), (1353.3637440806751, 1557.7826939585311)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7bcd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "a3ff150c51801f0d964e80d2f59a4f9d",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "有资质企业（甲方） 出具资质、配合投标、签署EMC合同、协助收款 不承担实质性投入，仅提供名义支持",
+      "metadata": {
+        "chunk_id": 18,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "detection_class_prob": 0.40913403034210205,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 1629.109375), (161.1111132870367, 1657.92431640625), (1490.4822998046875, 1657.92431640625), (1490.4822998046875, 1629.109375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7bdd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "a3ff150c51801f0d964e80d2f59a4f9d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "9aea6237a7042fa2c65694767ba1bf55",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "二、核心风控与保障机制",
+      "metadata": {
+        "chunk_id": 19,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((559.646288854321, 1845.9532733110063), (559.646288854321, 1894.7032743997563), (1095.8961758305666, 1894.7032743997563), (1095.8961758305666, 1845.9532733110063)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d78690>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "58ef39f95ac2367744fd2b2f3a916dc2",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "🔐 1. 设立共管账户（关键）",
+      "metadata": {
+        "chunk_id": 20,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3,
+        "detection_class_prob": 0.4562600553035736,
+        "coordinates": "CoordinatesMetadata(points=((554.2751845676996, 1946.94448858731), (554.2751845676996, 2004.918701171875), (1109.2716767864313, 2004.918701171875), (1109.2716767864313, 1946.94448858731)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7be10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "e8d0cc2ee851b2d199f0555312f6e261",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "医院将节能分成款项打入双方共管账户；",
+      "metadata": {
+        "chunk_id": 21,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.8002349734306335,
+        "coordinates": "CoordinatesMetadata(points=((143.409423828125, 2038.961669921875), (143.409423828125, 2073.99267578125), (664.4314370278556, 2073.99267578125), (664.4314370278556, 2038.961669921875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7b310>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8d0cc2ee851b2d199f0555312f6e261",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "d17dd3141e271a1b80586b7e4f630652",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "每笔付款需经你签字确认后方可转出；",
+      "metadata": {
+        "chunk_id": 22,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.8051481246948242,
+        "coordinates": "CoordinatesMetadata(points=((144.79693603515625, 2093.427734375), (144.79693603515625, 2128.60791015625), (637.3481030896613, 2128.60791015625), (637.3481030896613, 2093.427734375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d78d50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8d0cc2ee851b2d199f0555312f6e261",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "694619200f9020b8efbbdafef0c70853",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "可设定“自动分配规则”，如：",
+      "metadata": {
+        "chunk_id": 23,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "detection_class_prob": 0.780794620513916,
+        "coordinates": "CoordinatesMetadata(points=((141.51527404785156, 2146.132080078125), (141.51527404785156, 2183.66162109375), (525.9731818522883, 2183.66162109375), (525.9731818522883, 2146.132080078125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d7bd90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8d0cc2ee851b2d199f0555312f6e261",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "a033aea8c56013f097e88eb620a4f09c",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "收到医院付款 → 扣除税费及运营费用 → 按比例分配给双方；",
+      "metadata": {
+        "chunk_id": 24,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 5,
+        "detection_class_prob": 0.8074566125869751,
+        "coordinates": "CoordinatesMetadata(points=((169.1986846923828, 2202.09912109375), (169.1986846923828, 2238.761962890625), (940.668422363814, 2238.761962890625), (940.668422363814, 2202.09912109375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bed10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8d0cc2ee851b2d199f0555312f6e261",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "32f60a9d71235ca462fa7f0f46aed89d",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "防止对方截留资金、赖账、拖延付款。",
+      "metadata": {
+        "chunk_id": 25,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.46769431233406067,
+        "coordinates": "CoordinatesMetadata(points=((145.5327911376953, 79.34430694580078), (145.5327911376953, 116.2106704711914), (637.3481030896613, 116.2106704711914), (637.3481030896613, 79.34430694580078)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16d78c90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Header",
+        "id": "232301660b2ae7528fd217b0b42a916b",
+        "category": "Header"
+      }
+    },
+    {
+      "content": "建议由银行托管该账户，或通过第三方支付平台实现资金监管。",
+      "metadata": {
+        "chunk_id": 26,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.6305651068687439,
+        "coordinates": "CoordinatesMetadata(points=((198.29798889160156, 148.59640502929688), (198.29798889160156, 182.78268845020023), (959.0277977738401, 182.78268845020023), (959.0277977738401, 148.59640502929688)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bced0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "a507de856aa7c54cd898ede95bf4c776",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "📜 2. 签订《内部合作协议》（重点条款）",
+      "metadata": {
+        "chunk_id": 27,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 3,
+        "detection_class_prob": 0.48200881481170654,
+        "coordinates": "CoordinatesMetadata(points=((424.2621608307426, 378.1944787518963), (424.2621608307426, 436.5346984863281), (1239.2585088561368, 436.5346984863281), (1239.2585088561368, 378.1944787518963)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bc9d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "d701bf6f00f1b432f5abfcf536b92833",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "必须包含以下内容：",
+      "metadata": {
+        "chunk_id": 28,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.529394805431366,
+        "coordinates": "CoordinatesMetadata(points=((142.13670349121094, 469.1177978515625), (142.13670349121094, 522.1339721679688), (485.69440595272914, 522.1339721679688), (485.69440595272914, 469.1177978515625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bc150>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "7edc66089324cf4a66af1c69f8f60014",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "条款",
+      "metadata": {
+        "chunk_id": 29,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 580.6993640036712), (161.1111132870367, 607.7826979418656), (215.2777811634254, 607.7826979418656), (215.2777811634254, 580.6993640036712)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd150>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "7394b82626af58039d700d0de0c10603",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "内容说明",
+      "metadata": {
+        "chunk_id": 30,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((363.6176282263482, 580.6993640036712), (363.6176282263482, 607.7826979418656), (471.9509639791256, 607.7826979418656), (471.9509639791256, 580.6993640036712)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bfd50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "d69e1aac261446cc849c6a2af49ad5be",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "合作方式 明确你负责实施，对方提供资质支持",
+      "metadata": {
+        "chunk_id": 31,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.27954578399658203,
+        "coordinates": "CoordinatesMetadata(points=((155.99435424804688, 646.6519775390625), (155.99435424804688, 684.5059814453125), (804.3773803710938, 684.5059814453125), (804.3773803710938, 646.6519775390625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd290>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d69e1aac261446cc849c6a2af49ad5be",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "806516ee6b0cbce6c4ad4f6bab47ac07",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "资金管理 设立共管账户，双签机制，防止单方面操作",
+      "metadata": {
+        "chunk_id": 32,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.2550152540206909,
+        "coordinates": "CoordinatesMetadata(points=((154.97535705566406, 718.0048828125), (154.97535705566406, 754.3518676757812), (894.6143188476562, 754.3518676757812), (894.6143188476562, 718.0048828125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bc750>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d69e1aac261446cc849c6a2af49ad5be",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "2179171ca0b3231a765c91b7c28aab1f",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "ERE",
+      "metadata": {
+        "chunk_id": 33,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((175.0, 788.0), (175.0, 832.0), (269.0, 832.0), (269.0, 788.0)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bcf50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "f11b1982c2510581e803eba5f16c2568",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "付款流程",
+      "metadata": {
+        "chunk_id": 34,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 795.2827021293656), (161.1111132870367, 822.3660360675599), (269.4444490398142, 822.3660360675599), (269.4444490398142, 795.2827021293656)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bda50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "16e800123da18ea3bcb281ccaf496d67",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "医院付款→进入共管账户→扣除税费→按比例分配",
+      "metadata": {
+        "chunk_id": 35,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((363.6176282263482, 794.0528436018985), (363.6176282263482, 822.3660360675599), (959.4509748666243, 822.3660360675599), (959.4509748666243, 794.0528436018985)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd650>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "38e0a2a390d1b8428ae2d37da299954d",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "收益分成 列明每年节能收益如何分配（如前两年你占80%，之后逐年递减）",
+      "metadata": {
+        "chunk_id": 36,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.46920374035835266,
+        "coordinates": "CoordinatesMetadata(points=((154.21836853027344, 859.4249267578125), (154.21836853027344, 901.2173461914062), (1145.9097900390625, 901.2173461914062), (1145.9097900390625, 859.4249267578125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd8d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "38e0a2a390d1b8428ae2d37da299954d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "757f74c5520fe891a1d9c0e2dab0beab",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "违约责任 若对方无故拒签付款、拖延分成，应赔偿损失并支付违约金",
+      "metadata": {
+        "chunk_id": 37,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.29603245854377747,
+        "coordinates": "CoordinatesMetadata(points=((150.59127807617188, 931.6079711914062), (150.59127807617188, 972.1921997070312), (1080.85693359375, 972.1921997070312), (1080.85693359375, 931.6079711914062)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bdb10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "38e0a2a390d1b8428ae2d37da299954d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "21598be4a28ecb5b976c74f4cf7c3ec9",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "退出机制 合作期间任一方不得擅自退出；若退出，必须确保项目正常运转",
+      "metadata": {
+        "chunk_id": 38,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.25953707098960876,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 1001.7730712890625), (161.1111132870367, 1040.4932861328125), (1127.5433349609375, 1040.4932861328125), (1127.5433349609375, 1001.7730712890625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bcb10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "38e0a2a390d1b8428ae2d37da299954d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "8419ac3a99fc359ec4611a4163a17484",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "争议解决 建议约定仲裁机构，避免诉讼耗时费力",
+      "metadata": {
+        "chunk_id": 39,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.3553200662136078,
+        "coordinates": "CoordinatesMetadata(points=((153.72068786621094, 1073.5816650390625), (153.72068786621094, 1113.6180419921875), (828.5469970703125, 1113.6180419921875), (828.5469970703125, 1073.5816650390625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd110>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "38e0a2a390d1b8428ae2d37da299954d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "54c3de250248369a0108f5e0e58541b2",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "🧾 3. 第三方审计机制（增加信任）",
+      "metadata": {
+        "chunk_id": 40,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 3,
+        "detection_class_prob": 0.6311492919921875,
+        "coordinates": "CoordinatesMetadata(points=((489.268683115888, 1317.7778330692545), (489.268683115888, 1374.7431640625), (1174.2651032379508, 1374.7431640625), (1174.2651032379508, 1317.7778330692545)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd450>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "71e6289000a95bdd54008de370d2dfb0",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "委托第三方节能服务机构进行年度节能效果评估；",
+      "metadata": {
+        "chunk_id": 41,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.7481107115745544,
+        "coordinates": "CoordinatesMetadata(points=((145.5918731689453, 1409.001708984375), (145.5918731689453, 1446.143310546875), (772.7647727806332, 1446.143310546875), (772.7647727806332, 1409.001708984375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bff10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "71e6289000a95bdd54008de370d2dfb0",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "cba04433c94292fb1f412315b472810c",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "委托会计师事务所对项目财务情况进行年度审计；",
+      "metadata": {
+        "chunk_id": 42,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.8317015767097473,
+        "coordinates": "CoordinatesMetadata(points=((148.90048217773438, 1465.479736328125), (148.90048217773438, 1501.8570556640625), (772.7647727806332, 1501.8570556640625), (772.7647727806332, 1465.479736328125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143be690>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "71e6289000a95bdd54008de370d2dfb0",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "9d217dd7771df092a64a3d002adefb81",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "审计结果作为收益分配依据，减少分歧。",
+      "metadata": {
+        "chunk_id": 43,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.7428687214851379,
+        "coordinates": "CoordinatesMetadata(points=((145.15231323242188, 1518.783203125), (145.15231323242188, 1556.7562255859375), (664.4314370278556, 1556.7562255859375), (664.4314370278556, 1518.783203125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143be550>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "71e6289000a95bdd54008de370d2dfb0",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "473b7b9f399d148a7c0b8ee4e0343584",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "💼 4. 阶段性推进策略（降低初期风险）",
+      "metadata": {
+        "chunk_id": 44,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 3,
+        "detection_class_prob": 0.38251203298568726,
+        "coordinates": "CoordinatesMetadata(points=((445.9418488149222, 1749.0278427005035), (445.9418488149222, 1804.163818359375), (1217.604887539206, 1804.163818359375), (1217.604887539206, 1749.0278427005035)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bea90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "b6eaf14aa9fc99a833c943f6726624e7",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "你可以提出：",
+      "metadata": {
+        "chunk_id": 45,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1,
+        "detection_class_prob": 0.6576563119888306,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 1844.8662109375), (144.4444462481478, 1874.7166748046875), (306.944449877314, 1874.7166748046875), (306.944449877314, 1844.8662109375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bed50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "b6eaf14aa9fc99a833c943f6726624e7",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "fc393c1f59957f84e869f09ab7ce4087",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "“我们建议先以部分科室为试点启动项目，看看合作是否顺畅。如果一切顺利，再全面铺开。” 这样既能测试对方是否愿意配合，也能逐步建立信任基础。",
+      "metadata": {
+        "chunk_id": 46,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2,
+        "detection_class_prob": 0.511795699596405,
+        "coordinates": "CoordinatesMetadata(points=((135.09283447265625, 1913.20751953125), (135.09283447265625, 2012.99951171875), (1317.5059814453125, 2012.99951171875), (1317.5059814453125, 1913.20751953125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143befd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "b6eaf14aa9fc99a833c943f6726624e7",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "91d4260182f44afce26941a1b3616c8a",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "⚖ 5. 履约担保机制（双向约束）",
+      "metadata": {
+        "chunk_id": 47,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 3,
+        "detection_class_prob": 0.48644018173217773,
+        "coordinates": "CoordinatesMetadata(points=((510.91580859934044, 82.21350860595703), (510.91580859934044, 139.9627685546875), (1152.5789194202928, 139.9627685546875), (1152.5789194202928, 82.21350860595703)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16cfc750>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "47b62215cf62052bea35b9958205d4c5",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "方式",
+      "metadata": {
+        "chunk_id": 48,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 199.44916202243076), (161.1111132870367, 226.5324959606251), (215.2777811634254, 226.5324959606251), (215.2777811634254, 199.44916202243076)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bf650>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "e901cfc7ea5eb1ace7519e2c3f42f86c",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "内容",
+      "metadata": {
+        "chunk_id": 49,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((465.18014091124394, 199.44916202243076), (465.18014091124394, 226.5324959606251), (519.3468087876327, 226.5324959606251), (519.3468087876327, 199.44916202243076)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143be210>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "20db3bd675baf16b0963e66f4df67a33",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "你提供保函/保证金 向对方提供一定金额的银行保函或现金保证金，保证技术落地和节能效果",
+      "metadata": {
+        "chunk_id": 50,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.3773546814918518,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 262.7731628417969), (161.1111132870367, 305.49591064453125), (1332.7435302734375, 305.49591064453125), (1332.7435302734375, 262.7731628417969)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bc5d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "20db3bd675baf16b0963e66f4df67a33",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "df33cad246a8066cfff0c49b6e2f08f8",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "对方提供付款担保 向你提供母公司担保或银行保函，承诺医院付款到账后及时分配给你",
+      "metadata": {
+        "chunk_id": 51,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.34078535437583923,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 334.87249755859375), (161.1111132870367, 374.20947265625), (1282.2601318359375, 374.20947265625), (1282.2601318359375, 334.87249755859375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bf410>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "20db3bd675baf16b0963e66f4df67a33",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "523b04b8592a534bfeb5e54f6b4e0ad8",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "💬 推荐谈判话术（增强信任感）",
+      "metadata": {
+        "chunk_id": 52,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.30693328380584717,
+        "coordinates": "CoordinatesMetadata(points=((471.33247438197947, 545.6942869427374), (471.33247438197947, 608.2006225585938), (1184.205838219482, 608.2006225585938), (1184.205838219482, 545.6942869427374)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bf190>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "49bc992787f8d7dc4eae191168713d36",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "你可以这样说：",
+      "metadata": {
+        "chunk_id": 53,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "detection_class_prob": 0.7720222473144531,
+        "coordinates": "CoordinatesMetadata(points=((144.2814483642578, 651.56298828125), (144.2814483642578, 683.1759643554688), (334.02778381550837, 683.1759643554688), (334.02778381550837, 651.56298828125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd5d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "49bc992787f8d7dc4eae191168713d36",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "99538fa519282f12e62bd9d101224579",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "“我们非常理解贵司作为资质方的风险顾虑，因此我们愿意承担全部的技术和资金压力，并提供相应的履约担 保。同时我们也希望在资金流转上更加透明、安全，比如通过共管账户来保障双方的利益。这样既能保证项目 的顺利推进，也能让双方都安心。”",
+      "metadata": {
+        "chunk_id": 54,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 3,
+        "detection_class_prob": 0.9141519665718079,
+        "coordinates": "CoordinatesMetadata(points=((186.7838897705078, 719.7742919921875), (186.7838897705078, 834.8658428800679), (1511.1111453120318, 834.8658428800679), (1511.1111453120318, 719.7742919921875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bfcd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "49bc992787f8d7dc4eae191168713d36",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "7daae45434bdd62b76d664d087398548",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "也可以补充：",
+      "metadata": {
+        "chunk_id": 55,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "detection_class_prob": 0.6563760042190552,
+        "coordinates": "CoordinatesMetadata(points=((143.61595153808594, 869.9149169921875), (143.61595153808594, 903.453369140625), (306.944449877314, 903.453369140625), (306.944449877314, 869.9149169921875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bf490>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "49bc992787f8d7dc4eae191168713d36",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "9ecf02393f28d4e9bdbab319af7f5c27",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "“我们愿意在前期多投入，甚至可以设置医院直接向我们账户付款的方式，贵司只需配合走流程即可。我们只 需要贵司的信任和支持。”",
+      "metadata": {
+        "chunk_id": 56,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.8950057029724121,
+        "coordinates": "CoordinatesMetadata(points=((188.1255645751953, 937.5367431640625), (188.1255645751953, 1012.0023193359375), (1511.0876159365066, 1012.0023193359375), (1511.0876159365066, 937.5367431640625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bded0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "49bc992787f8d7dc4eae191168713d36",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "ecf42e1fb85a67d13b4ca45c2f1ce3c3",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "📄 合作协议要点清单（非公司制版本）",
+      "metadata": {
+        "chunk_id": 57,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.43073999881744385,
+        "coordinates": "CoordinatesMetadata(points=((398.1879414984184, 1174.8609676607912), (398.1879414984184, 1240.75390625), (1257.31127110217, 1240.75390625), (1257.31127110217, 1174.8609676607912)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143800d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "c1e10403a3fb89bf241879e2fb471721",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "你可以根据下面这份简要框架起草一份正式协议：",
+      "metadata": {
+        "chunk_id": 58,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "detection_class_prob": 0.7498009204864502,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 1277.9921875), (144.4444462481478, 1313.67333984375), (740.277792888424, 1313.67333984375), (740.277792888424, 1277.9921875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bccd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "c1e10403a3fb89bf241879e2fb471721",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "b9a4ad9fa9183aa3779cc69cbc29a96b",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "EMC项目内部合作协议（非公司制） 甲方： [有资质企业名称] 乙方： [你公司名称]",
+      "metadata": {
+        "chunk_id": 59,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 5,
+        "detection_class_prob": 0.2734646499156952,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 1514.401611328125), (144.4444462481478, 1732.782529600204), (1529.340310510818, 1732.782529600204), (1529.340310510818, 1514.401611328125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143bd090>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "d124ed110305c5841e318e62fa0ef5a0",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "鉴于甲乙双方拟就[XX医院]节能改造项目开展合作，现就相关事宜达成如下协议：",
+      "metadata": {
+        "chunk_id": 60,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "detection_class_prob": 0.7298395037651062,
+        "coordinates": "CoordinatesMetadata(points=((139.14060974121094, 1764.8597412109375), (139.14060974121094, 1801.4737548828125), (1122.4331555898925, 1801.4737548828125), (1122.4331555898925, 1764.8597412109375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c99dd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d124ed110305c5841e318e62fa0ef5a0",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "0535134cf812643c250c34525910006e",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "一、合作方式",
+      "metadata": {
+        "chunk_id": 61,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1,
+        "detection_class_prob": 0.354765921831131,
+        "coordinates": "CoordinatesMetadata(points=((681.5212915761956, 1966.3875732421875), (681.5212915761956, 2031.1221923828125), (974.3428344726562, 2031.1221923828125), (974.3428344726562, 1966.3875732421875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c980d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "d7aa9c318f5a48043240813c6bde552d",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1. 本项目由甲方出面投标并签署EMC合同；",
+      "metadata": {
+        "chunk_id": 62,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.6045748591423035,
+        "coordinates": "CoordinatesMetadata(points=((145.2657928466797, 2068.526611328125), (145.2657928466797, 2100.33056640625), (668.954145462196, 2100.33056640625), (668.954145462196, 2068.526611328125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143837d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d7aa9c318f5a48043240813c6bde552d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "7e671bb040a46db8c3cacf71716952d7",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "2. 乙方负责项目整体实施，包括但不限于：节能方案设计、设备采购、施工安装、节能运维；",
+      "metadata": {
+        "chunk_id": 63,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "detection_class_prob": 0.3997829258441925,
+        "coordinates": "CoordinatesMetadata(points=((149.84809220216258, 2122.09619140625), (149.84809220216258, 2153.6158723321482), (1260.264783668132, 2153.6158723321482), (1260.264783668132, 2122.09619140625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380850>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d7aa9c318f5a48043240813c6bde552d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "5e8dbf1548e306a777e3ca0f0a0db40f",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "3. 甲方仅提供资质支持及流程配合，不参与具体执行工作。",
+      "metadata": {
+        "chunk_id": 64,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 2,
+        "coordinates": "CoordinatesMetadata(points=((149.84809220216258, 2181.5526811227364), (149.84809220216258, 2209.865873588398), (854.0147745952162, 2209.865873588398), (854.0147745952162, 2181.5526811227364)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14383c50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "d7aa9c318f5a48043240813c6bde552d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "163d6cbc2502970aaff5446fe67242e6",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "二、资金管理",
+      "metadata": {
+        "chunk_id": 65,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.42868366837501526,
+        "coordinates": "CoordinatesMetadata(points=((680.224609375, 183.53126525878906), (680.224609375, 242.61987576990154), (974.0212356086932, 242.61987576990154), (974.0212356086932, 183.53126525878906)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff16cfe490>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "e8db0ce60b3eab83688b5bdc87c9344f",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1. 医院支付的节能分成款项统一进入双方共同监管的银行账户；",
+      "metadata": {
+        "chunk_id": 66,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.598773717880249,
+        "coordinates": "CoordinatesMetadata(points=((149.84809220216258, 286.50482177734375), (149.84809220216258, 319.8593444824219), (908.1814424716049, 319.8593444824219), (908.1814424716049, 286.50482177734375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380ed0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8db0ce60b3eab83688b5bdc87c9344f",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "47e932e8e11548cea704d175026a03cc",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "2. 所有资金支出需经甲乙双方授权代表签字确认；",
+      "metadata": {
+        "chunk_id": 67,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.5197134017944336,
+        "coordinates": "CoordinatesMetadata(points=((148.69361877441406, 341.01239013671875), (148.69361877441406, 374.0170593261719), (745.6814388424388, 374.0170593261719), (745.6814388424388, 341.01239013671875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14383e50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8db0ce60b3eab83688b5bdc87c9344f",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "ce9be1df568fea244f58a5672e1162fe",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "3. 每月/每季度定期结算一次，按约定比例分配至双方账户。",
+      "metadata": {
+        "chunk_id": 68,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.5830864310264587,
+        "coordinates": "CoordinatesMetadata(points=((149.7786865234375, 394.1080627441406), (149.7786865234375, 428.5754699707031), (861.5393914299327, 428.5754699707031), (861.5393914299327, 394.1080627441406)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143805d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "e8db0ce60b3eab83688b5bdc87c9344f",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "bf00fe21ee22e4bb9ca8399797cc40ec",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "三、收益分配",
+      "metadata": {
+        "chunk_id": 69,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.4856235980987549,
+        "coordinates": "CoordinatesMetadata(points=((677.3475341796875, 593.078369140625), (677.3475341796875, 654.5878295898438), (979.6524658203125, 654.5878295898438), (979.6524658203125, 593.078369140625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380610>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "232301660b2ae7528fd217b0b42a916b",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "6325dafc46172995e656cf7cb299132d",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1. 项目产生的节能收益按如下比例分配（可协商）：",
+      "metadata": {
+        "chunk_id": 70,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.6876161694526672,
+        "coordinates": "CoordinatesMetadata(points=((149.84809220216258, 693.3721313476562), (149.84809220216258, 727.1709594726562), (772.7647727806332, 727.1709594726562), (772.7647727806332, 693.3721313476562)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143833d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "6325dafc46172995e656cf7cb299132d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "298d2ed0f160d5c859ff530a9fc8e6aa",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "【第一年】：甲方【X%】，乙方【X%】",
+      "metadata": {
+        "chunk_id": 71,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7325854301452637,
+        "coordinates": "CoordinatesMetadata(points=((167.44534301757812, 749.1676025390625), (167.44534301757812, 781.6084594726562), (699.907104486812, 781.6084594726562), (699.907104486812, 749.1676025390625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14383f90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "6325dafc46172995e656cf7cb299132d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "934983126a8ef42d7d433de2d0691406",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "【第二年起】：视节能效果调整比例，优先保障乙方回收成本；",
+      "metadata": {
+        "chunk_id": 72,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7489659786224365,
+        "coordinates": "CoordinatesMetadata(points=((171.01992797851562, 803.27099609375), (171.01992797851562, 836.9493161265893), (967.7517563020085, 836.9493161265893), (967.7517563020085, 803.27099609375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14383650>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "6325dafc46172995e656cf7cb299132d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "01eedd24126889f8df8a8a6503f428a0",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "2. 所有分配均以第三方审计数据为依据。",
+      "metadata": {
+        "chunk_id": 73,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.32096266746520996,
+        "coordinates": "CoordinatesMetadata(points=((142.183349609375, 858.4984130859375), (142.183349609375, 892.447021484375), (637.3481030896613, 892.447021484375), (637.3481030896613, 858.4984130859375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380250>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "6325dafc46172995e656cf7cb299132d",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "1697c8d70dcd93c71e81dc33213a92f4",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "四、双方权利义务 ",
+      "metadata": {
+        "chunk_id": 74,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.4913344383239746,
+        "coordinates": "CoordinatesMetadata(points=((632.7582696538217, 1057.6295166015625), (632.7582696538217, 1118.4979248046875), (1025.1573486328125, 1118.4979248046875), (1025.1573486328125, 1057.6295166015625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143830d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Image",
+        "id": "805eeb30538b439d5ab71436ac660160",
+        "category": "Image"
+      }
+    },
+    {
+      "content": "甲方职责：",
+      "metadata": {
+        "chunk_id": 75,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.3604651093482971,
+        "coordinates": "CoordinatesMetadata(points=((716.6091727044701, 1169.073486328125), (716.6091727044701, 1225.0733642578125), (944.1090751811338, 1225.0733642578125), (944.1090751811338, 1169.073486328125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14382ad0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "19336af67016c2ed26e411c93f3956a4",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "提供合法有效的资质用于投标；",
+      "metadata": {
+        "chunk_id": 76,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7014608979225159,
+        "coordinates": "CoordinatesMetadata(points=((142.66314697265625, 1255.8096923828125), (142.66314697265625, 1293.971923828125), (556.0981012750781, 1293.971923828125), (556.0981012750781, 1255.8096923828125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14383850>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "19336af67016c2ed26e411c93f3956a4",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "e434beba0d473bb6362baf8b3ee000da",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "协助乙方完成项目报批、备案等行政手续；",
+      "metadata": {
+        "chunk_id": 77,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.8080958127975464,
+        "coordinates": "CoordinatesMetadata(points=((142.73487854003906, 1312.1156005859375), (142.73487854003906, 1349.4532470703125), (691.51477096605, 1349.4532470703125), (691.51477096605, 1312.1156005859375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380a50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "19336af67016c2ed26e411c93f3956a4",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "a96958419cc5f140e9ef217b635ef248",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "不得擅自挪用项目资金；",
+      "metadata": {
+        "chunk_id": 78,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7707131505012512,
+        "coordinates": "CoordinatesMetadata(points=((145.0591583251953, 1364.151123046875), (145.0591583251953, 1405.0001220703125), (474.84809946049506, 1405.0001220703125), (474.84809946049506, 1364.151123046875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14383690>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "19336af67016c2ed26e411c93f3956a4",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "831658705becd8e763721e7e32bee29f",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "配合医院付款流程，确保资金按时到账。",
+      "metadata": {
+        "chunk_id": 79,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7648714780807495,
+        "coordinates": "CoordinatesMetadata(points=((143.76806640625, 1424.6309814453125), (143.76806640625, 1459.5157470703125), (664.4314370278556, 1459.5157470703125), (664.4314370278556, 1424.6309814453125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380ad0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "19336af67016c2ed26e411c93f3956a4",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "9e3bbc7873c62814f78438fd2dc0c579",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "乙方职责：",
+      "metadata": {
+        "chunk_id": 80,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.6506673693656921,
+        "coordinates": "CoordinatesMetadata(points=((716.6091727044701, 1600.27001953125), (716.6091727044701, 1654.556640625), (944.1090751811338, 1654.556640625), (944.1090751811338, 1600.27001953125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380b10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "8396d50f9d5da81cf28a6700cae65d1a",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "负责项目整体技术方案设计、施工、调试、运维；",
+      "metadata": {
+        "chunk_id": 81,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.8274106979370117,
+        "coordinates": "CoordinatesMetadata(points=((140.49949645996094, 1690.2884521484375), (140.49949645996094, 1724.86767578125), (772.7647727806332, 1724.86767578125), (772.7647727806332, 1690.2884521484375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380d50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "8396d50f9d5da81cf28a6700cae65d1a",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "60c99b7eebaf3a5dd9f577212dacab9a",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "确保节能效果达到EMC合同要求；",
+      "metadata": {
+        "chunk_id": 82,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7644974589347839,
+        "coordinates": "CoordinatesMetadata(points=((151.30728149414062, 1742.5015869140625), (151.30728149414062, 1777.3966064453125), (587.7041394809462, 1777.3966064453125), (587.7041394809462, 1742.5015869140625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381410>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "8396d50f9d5da81cf28a6700cae65d1a",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "ad4a81085edba6ce9e9ab46908fb7134",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "=",
+      "metadata": {
+        "chunk_id": 83,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((147.0, 1757.0), (147.0, 1765.0), (155.0, 1765.0), (155.0, 1757.0)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14382910>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "8396d50f9d5da81cf28a6700cae65d1a",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Text",
+        "id": "a7d3033b1ba27f3ec3b1d5d9b43f9c60",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "承担项目前期主要资金投入；",
+      "metadata": {
+        "chunk_id": 84,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7823101282119751,
+        "coordinates": "CoordinatesMetadata(points=((141.45863342285156, 1795.94384765625), (141.45863342285156, 1832.57666015625), (529.0147673368838, 1832.57666015625), (529.0147673368838, 1795.94384765625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14380390>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "8396d50f9d5da81cf28a6700cae65d1a",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "46bf99074f50a832c013d000f73974ee",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "定期向甲方汇报项目进度与财务状况。",
+      "metadata": {
+        "chunk_id": 85,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.7877994179725647,
+        "coordinates": "CoordinatesMetadata(points=((143.52017211914062, 1853.6971435546875), (143.52017211914062, 1890.0050048828125), (637.3481030896613, 1890.0050048828125), (637.3481030896613, 1853.6971435546875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381fd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "8396d50f9d5da81cf28a6700cae65d1a",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "6aed6b501a69e12c6128ad99e2b74ac1",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "五、违约处理",
+      "metadata": {
+        "chunk_id": 86,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1,
+        "detection_class_prob": 0.4667488634586334,
+        "coordinates": "CoordinatesMetadata(points=((677.0261840820312, 2050.594970703125), (677.0261840820312, 2114.59228515625), (974.0212356086932, 2114.59228515625), (974.0212356086932, 2050.594970703125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381ad0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "b62b31fef50622d117e727d797376079",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1. 若甲方无故拒绝履行合同义务，乙方有权终止合作并索赔；",
+      "metadata": {
+        "chunk_id": 87,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.4298228323459625,
+        "coordinates": "CoordinatesMetadata(points=((149.19004821777344, 2154.323974609375), (149.19004821777344, 2185.740234375), (881.0981085334106, 2185.740234375), (881.0981085334106, 2154.323974609375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381e10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "b62b31fef50622d117e727d797376079",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "3c355a234d05c462e23cc6f9bd575611",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "2. 若乙方未按约定完成节能目标，应在下一年度予以补足；",
+      "metadata": {
+        "chunk_id": 88,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2,
+        "detection_class_prob": 0.6985543370246887,
+        "coordinates": "CoordinatesMetadata(points=((149.84809220216258, 2211.7197265625), (149.84809220216258, 2241.898193359375), (854.0147745952162, 2241.898193359375), (854.0147745952162, 2211.7197265625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381f10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "b62b31fef50622d117e727d797376079",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "7dab961875e5e75bbc7f15853dc3a2e6",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "3. 如因任何一方原因导致项目失败，守约方可依法追究责任。",
+      "metadata": {
+        "chunk_id": 89,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.745474636554718,
+        "coordinates": "CoordinatesMetadata(points=((149.5950164794922, 79.74465942382812), (149.5950164794922, 116.14740753173828), (881.0981085334106, 116.14740753173828), (881.0981085334106, 79.74465942382812)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18c99e10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Header",
+        "id": "fac6bb44de729f7e4b09b6bb939bd322",
+        "category": "Header"
+      }
+    },
+    {
+      "content": "六、其他条款",
+      "metadata": {
+        "chunk_id": 90,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.5392784476280212,
+        "coordinates": "CoordinatesMetadata(points=((675.60595703125, 280.1360168457031), (675.60595703125, 341.6121520996094), (975.5868530273438, 341.6121520996094), (975.5868530273438, 280.1360168457031)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143810d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "fac6bb44de729f7e4b09b6bb939bd322",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "7def3243ddbba81bd5e418559d0f17c3",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1. 争议解决：提交[所在地]仲裁委员会仲裁；",
+      "metadata": {
+        "chunk_id": 91,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.6084735989570618,
+        "coordinates": "CoordinatesMetadata(points=((147.20863342285156, 377.8096008300781), (147.20863342285156, 413.33782958984375), (682.4693603473693, 413.33782958984375), (682.4693603473693, 377.8096008300781)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143814d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "37cfae81f7b66b411c311a6fa65e9513",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "2. 协议生效：自双方签字盖章之日起生效；",
+      "metadata": {
+        "chunk_id": 92,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.44744762778282166,
+        "coordinates": "CoordinatesMetadata(points=((145.2278594970703, 434.69903564453125), (145.2278594970703, 470.4021911621094), (664.4314370278556, 470.4021911621094), (664.4314370278556, 434.69903564453125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381610>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "7241052892ee66f195552a388f869377",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "3. 附件清单：",
+      "metadata": {
+        "chunk_id": 93,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.5407143235206604,
+        "coordinates": "CoordinatesMetadata(points=((149.84809220216258, 489.38531494140625), (149.84809220216258, 524.5845947265625), (312.3480958313288, 524.5845947265625), (312.3480958313288, 489.38531494140625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143817d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "f8570964f152e89595d93b3b52ddbb79",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "项目节能技术方案",
+      "metadata": {
+        "chunk_id": 94,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.7574405074119568,
+        "coordinates": "CoordinatesMetadata(points=((176.3578643798828, 546.2196655273438), (176.3578643798828, 579.3746337890625), (426.08507753812097, 579.3746337890625), (426.08507753812097, 546.2196655273438)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381910>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "00b676f79af87ba80061dca1023506c8",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "投资预算表",
+      "metadata": {
+        "chunk_id": 95,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.7474307417869568,
+        "coordinates": "CoordinatesMetadata(points=((177.6697998046875, 602.03369140625), (177.6697998046875, 632.80908203125), (345.93048095703125, 632.80908203125), (345.93048095703125, 602.03369140625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381b10>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "585993a93588bc198d91182a7b0423ff",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "银行保函样本",
+      "metadata": {
+        "chunk_id": 96,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.781105101108551,
+        "coordinates": "CoordinatesMetadata(points=((176.47998046875, 654.947265625), (176.47998046875, 687.8662719726562), (372.0090026855469, 687.8662719726562), (372.0090026855469, 654.947265625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381010>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "1c4ba42a8b1b7528037e6045a6dcc3e8",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "第三方审计机构名单",
+      "metadata": {
+        "chunk_id": 97,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.7142230272293091,
+        "coordinates": "CoordinatesMetadata(points=((172.7034149169922, 708.4148559570312), (172.7034149169922, 744.5582885742188), (458.65692138671875, 744.5582885742188), (458.65692138671875, 708.4148559570312)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff14381690>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "4ece472163414a43aa8d7ee18a93d469",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "甲方（盖章）： 代表签字：__ 日期：___",
+      "metadata": {
+        "chunk_id": 98,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 3,
+        "detection_class_prob": 0.5301221609115601,
+        "coordinates": "CoordinatesMetadata(points=((142.61856079101562, 865.4005737304688), (142.61856079101562, 979.0850830078125), (334.02778381550837, 979.0850830078125), (334.02778381550837, 865.4005737304688)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc9990>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "a3ba5f175cc00d6763520f7e7f13024c",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "乙方（盖章）： 代表签字：__ 日期：___",
+      "metadata": {
+        "chunk_id": 99,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 3,
+        "detection_class_prob": 0.35946157574653625,
+        "coordinates": "CoordinatesMetadata(points=((141.6971893310547, 1012.935791015625), (141.6971893310547, 1129.976318359375), (334.02778381550837, 1129.976318359375), (334.02778381550837, 1012.935791015625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc8e90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "7def3243ddbba81bd5e418559d0f17c3",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "130d9c0f33bd87dc1512759e01147405",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "✅ 总结：适合你的合作路径",
+      "metadata": {
+        "chunk_id": 100,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.4062858521938324,
+        "coordinates": "CoordinatesMetadata(points=((520.06295463696, 1291.5279166663342), (520.06295463696, 1355.5103759765625), (1135.4363412969635, 1355.5103759765625), (1135.4363412969635, 1291.5279166663342)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccb490>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "fac6bb44de729f7e4b09b6bb939bd322",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "58db66eb45e4eb5dd9a62454f1f16cea",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "步骤 建议动作",
+      "metadata": {
+        "chunk_id": 101,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.5468775629997253,
+        "coordinates": "CoordinatesMetadata(points=((159.26992797851562, 1413.6507568359375), (159.26992797851562, 1450.3009033203125), (412.7515563964844, 1450.3009033203125), (412.7515563964844, 1413.6507568359375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc93d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "fac6bb44de729f7e4b09b6bb939bd322",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "ac20ffc7b14407f3977cb6fac89191fc",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "1 明确合作方式：你主导执行，对方只提供资质支持",
+      "metadata": {
+        "chunk_id": 102,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.3903833031654358,
+        "coordinates": "CoordinatesMetadata(points=((152.32884216308594, 1483.12646484375), (152.32884216308594, 1522.7962646484375), (897.2764943113946, 1522.7962646484375), (897.2764943113946, 1483.12646484375)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccafd0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "ac20ffc7b14407f3977cb6fac89191fc",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "1a97c3c2cf874647367987b24afb3e78",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "2 要求设立共管账户，资金双签机制，保障资金安全",
+      "metadata": {
+        "chunk_id": 103,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.42802512645721436,
+        "coordinates": "CoordinatesMetadata(points=((152.64915466308594, 1557.92822265625), (152.64915466308594, 1594.5057373046875), (897.2764943113946, 1594.5057373046875), (897.2764943113946, 1557.92822265625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccb810>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "ac20ffc7b14407f3977cb6fac89191fc",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "c80450e91a8e1a71a0dc33c39c9a1c41",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "3 签署《内部合作协议》，明确付款流程、收益分配、违约责任",
+      "metadata": {
+        "chunk_id": 104,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.4485875368118286,
+        "coordinates": "CoordinatesMetadata(points=((151.6524658203125, 1627.596923828125), (151.6524658203125, 1665.4361572265625), (1045.7503662109375, 1665.4361572265625), (1045.7503662109375, 1627.596923828125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc9090>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "ac20ffc7b14407f3977cb6fac89191fc",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "d446480063a7ac62afad516e6452bb7a",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "4",
+      "metadata": {
+        "chunk_id": 105,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 1704.4696168678647), (161.1111132870367, 1731.5529508060592), (174.65278025613387, 1731.5529508060592), (174.65278025613387, 1704.4696168678647)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc9950>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "ac20ffc7b14407f3977cb6fac89191fc",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Text",
+        "id": "16689bb6a5468b1bd172cdf8cd142d48",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "引入第三方审计，提升合作透明度",
+      "metadata": {
+        "chunk_id": 106,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((301.44314767111837, 1705.6994753953318), (301.44314767111837, 1732.7828093335263), (707.693156744034, 1732.7828093335263), (707.693156744034, 1705.6994753953318)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cca210>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "fac6bb44de729f7e4b09b6bb939bd322",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "1e210c47f0cf9a408952d597fd28cdc8",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "5",
+      "metadata": {
+        "chunk_id": 107,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((161.1111132870367, 1777.3862851630033), (161.1111132870367, 1804.4696191011976), (174.65278025613387, 1804.4696191011976), (174.65278025613387, 1777.3862851630033)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cca850>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "1e210c47f0cf9a408952d597fd28cdc8",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Text",
+        "id": "c65a800821b72dbc549d543067acd2e6",
+        "category": "UncategorizedText"
+      }
+    },
+    {
+      "content": "阶段性推进项目，先小范围试运行",
+      "metadata": {
+        "chunk_id": 108,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "coordinates": "CoordinatesMetadata(points=((301.44314767111837, 1778.6161436904702), (301.44314767111837, 1805.6994776286647), (707.693156744034, 1805.6994776286647), (707.693156744034, 1778.6161436904702)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc8f50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "fac6bb44de729f7e4b09b6bb939bd322",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Title",
+        "id": "0d89537208433e54b77cc012889e5875",
+        "category": "Title"
+      }
+    },
+    {
+      "content": "6 双方互相提供履约担保，形成双向制约机制",
+      "metadata": {
+        "chunk_id": 109,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 2,
+        "detection_class_prob": 0.33829280734062195,
+        "coordinates": "CoordinatesMetadata(points=((152.34860229492188, 1839.191650390625), (152.34860229492188, 1880.0157470703125), (823.4410400390625, 1880.0157470703125), (823.4410400390625, 1839.191650390625)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cca950>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "0d89537208433e54b77cc012889e5875",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "bf77dc4c5f1077d4ff7e173880ef9f5e",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "如果你需要，我可以为你进一步完善这份协议模板，或者帮你准备配套文件如：",
+      "metadata": {
+        "chunk_id": 110,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.6624491810798645,
+        "coordinates": "CoordinatesMetadata(points=((142.68507385253906, 2007.694580078125), (142.68507385253906, 2045.096923828125), (1092.361134084951, 2045.096923828125), (1092.361134084951, 2007.694580078125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccba50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "0d89537208433e54b77cc012889e5875",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "1ca9911ca91e9c52d1a2330dc66f5255",
+        "category": "NarrativeText"
+      }
+    },
+    {
+      "content": "《节能测算报告模板》",
+      "metadata": {
+        "chunk_id": 111,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.7277191281318665,
+        "coordinates": "CoordinatesMetadata(points=((143.6499786376953, 2073.737060546875), (143.6499786376953, 2111.8125), (447.7647655223006, 2111.8125), (447.7647655223006, 2073.737060546875)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18cc9a90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "0d89537208433e54b77cc012889e5875",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "66706daa28ac69757745db1c80fabf10",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "《第三方审计委托协议》",
+      "metadata": {
+        "chunk_id": 112,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.6703214049339294,
+        "coordinates": "CoordinatesMetadata(points=((145.00027465820312, 2131.44970703125), (145.00027465820312, 2166.854736328125), (474.84809946049506, 2166.854736328125), (474.84809946049506, 2131.44970703125)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccb990>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "0d89537208433e54b77cc012889e5875",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "4dba2ee5e6a09161a93f46e2db77b326",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "《银行共管账户申请书》",
+      "metadata": {
+        "chunk_id": 113,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1,
+        "detection_class_prob": 0.7624391317367554,
+        "coordinates": "CoordinatesMetadata(points=((141.4977569580078, 2185.5), (141.4977569580078, 2222.489990234375), (474.84809946049506, 2222.489990234375), (474.84809946049506, 2185.5)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccaf50>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "0d89537208433e54b77cc012889e5875",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "ListItem",
+        "id": "3674060ce4e62200bddc60d1e706ab6c",
+        "category": "ListItem"
+      }
+    },
+    {
+      "content": "《履约保函样本》",
+      "metadata": {
+        "chunk_id": 114,
+        "page_number": 6,
+        "page_range": "6",
+        "word_count": 1,
+        "detection_class_prob": 0.44577014446258545,
+        "coordinates": "CoordinatesMetadata(points=((144.5369873046875, 77.32786560058594), (144.5369873046875, 117.5226821899414), (393.5980976459119, 117.5226821899414), (393.5980976459119, 77.32786560058594)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff143be2d0>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "Header",
+        "id": "58f9a9ddfa84ce20245d42e518ec5b7f",
+        "category": "Header"
+      }
+    },
+    {
+      "content": "是否需要我继续为你准备这些？",
+      "metadata": {
+        "chunk_id": 115,
+        "page_number": 6,
+        "page_range": "6",
+        "word_count": 1,
+        "detection_class_prob": 0.37897542119026184,
+        "coordinates": "CoordinatesMetadata(points=((144.4444462481478, 145.9667510986328), (144.4444462481478, 185.64227294921875), (523.611121382869, 185.64227294921875), (523.611121382869, 145.9667510986328)), system=<unstructured.documents.coordinates.PixelSpace object at 0x7eff18ccae90>)",
+        "last_modified": "2025-06-06T18:30:55",
+        "filetype": "application/pdf",
+        "languages": [
+          "eng"
+        ],
+        "parent_id": "58f9a9ddfa84ce20245d42e518ec5b7f",
+        "file_directory": "temp",
+        "filename": "emc.pdf",
+        "element_type": "NarrativeText",
+        "id": "55ac66e1049aa3b0993136ba993ceb36",
+        "category": "NarrativeText"
+      }
+    }
+  ]
+}

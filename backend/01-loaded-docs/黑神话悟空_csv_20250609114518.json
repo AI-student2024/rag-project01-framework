@@ -1,0 +1,95 @@
+{
+  "filename": "黑神话悟空.csv",
+  "total_chunks": 6,
+  "total_pages": 1,
+  "loading_method": "csv",
+  "chunking_strategy": null,
+  "chunking_method": "loaded",
+  "timestamp": "2025-06-09T11:45:18.116557",
+  "chunks": [
+    {
+      "content": "﻿Category: 装备\nName: 铜云棒\nDescription: 一根结实的青铜棒，挥舞时能发出破空之声，适合近战攻击。\nPowerLevel: 85",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 8,
+        "char_count": 79,
+        "encoding": "UTF-8-SIG",
+        "delimiter": ",",
+        "has_header": true,
+        "fieldnames": null
+      }
+    },
+    {
+      "content": "﻿Category: 装备\nName: 百戏衬钱衣\nDescription: 一件精美的战斗铠甲，能够提供强大的防御并抵御剧毒伤害。\nPowerLevel: 90",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 8,
+        "char_count": 81,
+        "encoding": "UTF-8-SIG",
+        "delimiter": ",",
+        "has_header": true,
+        "fieldnames": null
+      }
+    },
+    {
+      "content": "﻿Category: 技能\nName: 天雷击\nDescription: 召唤天雷攻击敌人，造成大范围雷电伤害。\nPowerLevel: 95",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 8,
+        "char_count": 71,
+        "encoding": "UTF-8-SIG",
+        "delimiter": ",",
+        "has_header": true,
+        "fieldnames": null
+      }
+    },
+    {
+      "content": "﻿Category: 技能\nName: 火焰舞\nDescription: 施展火焰舞步，将敌人包围在炽热的火焰之中。\nPowerLevel: 92",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 8,
+        "char_count": 73,
+        "encoding": "UTF-8-SIG",
+        "delimiter": ",",
+        "has_header": true,
+        "fieldnames": null
+      }
+    },
+    {
+      "content": "﻿Category: 人物\nName: 悟空\nDescription: 主角，拥有七十二变和腾云驾雾的能力，行侠仗义。\nPowerLevel: 100",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 8,
+        "char_count": 75,
+        "encoding": "UTF-8-SIG",
+        "delimiter": ",",
+        "has_header": true,
+        "fieldnames": null
+      }
+    },
+    {
+      "content": "﻿Category: 人物\nName: 银角大王\nDescription: 强大的妖王之一，擅长操控各种法宝，具有极高的战斗力。\nPowerLevel: 88",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 8,
+        "char_count": 79,
+        "encoding": "UTF-8-SIG",
+        "delimiter": ",",
+        "has_header": true,
+        "fieldnames": null
+      }
+    }
+  ]
+}

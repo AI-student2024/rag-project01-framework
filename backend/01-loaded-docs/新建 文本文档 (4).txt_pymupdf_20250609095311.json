@@ -1,0 +1,22 @@
+{
+  "filename": "新建 文本文档 (4).txt",
+  "total_chunks": 1,
+  "total_pages": 1,
+  "loading_method": "pymupdf",
+  "chunking_strategy": null,
+  "chunking_method": "loaded",
+  "timestamp": "2025-06-09T09:53:11.320792",
+  "chunks": [
+    {
+      "content": "sk-82e5edc70b554e4d920b6a6d773cb5c7",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1,
+        "chunk_type": "title_section",
+        "char_count": 35
+      }
+    }
+  ]
+}

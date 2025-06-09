@@ -596,11 +596,13 @@ async def load_file(
     loading_method: str = Form(...),
     strategy: str = Form(None),
     chunking_strategy: str = Form(None),
-    chunking_options: str = Form(None)
+    chunking_options: str = Form(None),
+    text_config: str = Form(None)
 ):
     try:
         # 保存上传的文件
         temp_path = os.path.join("temp", file.filename)
+        os.makedirs("temp", exist_ok=True)  # 确保temp目录存在
         with open(temp_path, "wb") as buffer:
             content = await file.read()
             buffer.write(content)
@@ -620,19 +622,24 @@ async def load_file(
         chunking_options_dict = None
         if chunking_options:
             chunking_options_dict = json.loads(chunking_options)
+            
+        # Parse text config if provided
+        text_config_dict = None
+        if text_config:
+            text_config_dict = json.loads(text_config)
         
         # 使用 LoadingService 加载文档
         loading_service = LoadingService()
-        raw_text = loading_service.load_pdf(
+        raw_text = loading_service.load_file(
             temp_path, 
             loading_method, 
             strategy=strategy,
             chunking_strategy=chunking_strategy,
-            chunking_options=chunking_options_dict
+            chunking_options=chunking_options_dict,
+            text_config=text_config_dict if loading_method == 'text' else None
         )
         
-        metadata["total_pages"] = loading_service.get_total_pages()
-        
+        # 获取页面映射
         page_map = loading_service.get_page_map()
         
         # 转换成标准化的chunks格式
@@ -652,7 +659,11 @@ async def load_file(
                 "metadata": chunk_metadata
             })
         
-        # 使用 LoadingService 保存文档，传递strategy参数
+        # 更新元数据
+        metadata["total_pages"] = loading_service.get_total_pages()
+        metadata["total_chunks"] = len(chunks)
+        
+        # 使用 LoadingService 保存文档
         filepath = loading_service.save_document(
             filename=file.filename,
             chunks=chunks,
@@ -667,12 +678,21 @@ async def load_file(
             document_data = json.load(f)
         
         # 清理临时文件
-        os.remove(temp_path)
+        try:
+            os.remove(temp_path)
+        except Exception as e:
+            logger.warning(f"Failed to remove temporary file {temp_path}: {str(e)}")
         
         return {"loaded_content": document_data, "filepath": filepath}
     except Exception as e:
         logger.error(f"Error loading file: {str(e)}")
-        raise
+        # 确保清理临时文件
+        try:
+            if os.path.exists(temp_path):
+                os.remove(temp_path)
+        except:
+            pass
+        raise HTTPException(status_code=500, detail=str(e))
 
 @app.post("/chunk")
 async def chunk_document(data: dict = Body(...)):
