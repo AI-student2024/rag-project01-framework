@@ -656,27 +656,26 @@ class LoadingService:
 
     def _load_md(self, file_path: str) -> str:
         """
-        加载Markdown文件，使用UnstructuredMarkdownLoader。
+        加载Markdown文件，直接读取原始文本内容。
         """
         try:
-            loader = UnstructuredMarkdownLoader(file_path)
-            documents = loader.load()
-            text_blocks = []
-            for i, doc in enumerate(documents):
-                text_blocks.append({
-                    "text": doc.page_content,
-                    "page": 1,
-                    "chunk_id": i + 1,
-                    "metadata": {
-                        "chunk_id": i + 1,
-                        "page_number": 1,
-                        "page_range": "1",
-                        "word_count": len(doc.page_content.split()),
-                        "char_count": len(doc.page_content)
-                    }
-                })
-            self.current_page_map = text_blocks
-            return "\n".join(block["text"] for block in text_blocks)
+            # print("DEBUG: _load_md 读取路径：", file_path)
+            with open(file_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            # print("DEBUG: _load_md 读取内容前200字符：", content[:200])
+            self.current_page_map = [{
+                "text": content,
+                "page": 1,
+                "chunk_id": 1,
+                "metadata": {
+                    "chunk_id": 1,
+                    "page_number": 1,
+                    "page_range": "1",
+                    "word_count": len(content.split()),
+                    "char_count": len(content)
+                }
+            }]
+            return content
         except Exception as e:
             logger.error(f"Markdown loading error: {str(e)}")
             raise ValueError(f"Error loading Markdown file: {str(e)}")

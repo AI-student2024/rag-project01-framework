@@ -204,7 +204,7 @@ const LoadFile = () => {
             }`}
             onClick={() => setActiveTab('preview')}
           >
-            Document Preview
+            文档预览
           </button>
           <button
             className={`px-4 py-2 ml-4 ${
@@ -214,7 +214,7 @@ const LoadFile = () => {
             }`}
             onClick={() => setActiveTab('documents')}
           >
-            Document Management
+            文档管理
           </button>
         </div>
 

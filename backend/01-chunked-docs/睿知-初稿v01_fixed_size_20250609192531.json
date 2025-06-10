@@ -1,0 +1,16 @@
+{
+  "filename": "睿知-初稿v01.pdf",
+  "total_chunks": 0,
+  "total_pages": 23,
+  "loading_method": "pypdf",
+  "chunking_method": "fixed_size",
+  "chunking_config": {
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "min_chunk_size": 100,
+    "max_chunk_size": 5000,
+    "semantic_threshold": 0.7
+  },
+  "timestamp": "2025-06-09T19:25:31.023663",
+  "chunks": []
+}

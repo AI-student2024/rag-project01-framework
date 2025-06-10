@@ -1,0 +1,1790 @@
+{
+  "filename": "074.pdf",
+  "total_chunks": 197,
+  "total_pages": 197,
+  "loading_method": "unstructured",
+  "chunking_method": "by_pages",
+  "chunking_config": {
+    "chunk_size": 1000,
+    "chunk_overlap": 200,
+    "min_chunk_size": 100,
+    "max_chunk_size": 5000,
+    "semantic_threshold": 0.7
+  },
+  "timestamp": "2025-06-10T09:17:13.668117",
+  "chunks": [
+    {
+      "content": "2023 Boeing Sustainability Report",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "Contents",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Introduction",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Approach & Governance",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "People",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Products & Services",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "Operations",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Communities",
+      "metadata": {
+        "chunk_id": 8,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Reporting",
+      "metadata": {
+        "chunk_id": 9,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Key ESG Data",
+      "metadata": {
+        "chunk_id": 10,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "GRI Index",
+      "metadata": {
+        "chunk_id": 11,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "SASB Index",
+      "metadata": {
+        "chunk_id": 12,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "TCFD Index",
+      "metadata": {
+        "chunk_id": 13,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "U.N. Sustainable Development Goals",
+      "metadata": {
+        "chunk_id": 14,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "Awards and Recognition",
+      "metadata": {
+        "chunk_id": 15,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "Select Memberships and Partnerships",
+      "metadata": {
+        "chunk_id": 16,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 4
+      }
+    },
+    {
+      "content": "Forward-Looking Statements",
+      "metadata": {
+        "chunk_id": 17,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "74",
+      "metadata": {
+        "chunk_id": 18,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Key ESG Data",
+      "metadata": {
+        "chunk_id": 19,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "Environmental Data",
+      "metadata": {
+        "chunk_id": 20,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "2022",
+      "metadata": {
+        "chunk_id": 21,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2021",
+      "metadata": {
+        "chunk_id": 22,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2020",
+      "metadata": {
+        "chunk_id": 23,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Energy1",
+      "metadata": {
+        "chunk_id": 24,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Megawatt hours",
+      "metadata": {
+        "chunk_id": 25,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "Terajoules",
+      "metadata": {
+        "chunk_id": 26,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Megawatt hours",
+      "metadata": {
+        "chunk_id": 27,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "Terajoules",
+      "metadata": {
+        "chunk_id": 28,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Megawatt hours",
+      "metadata": {
+        "chunk_id": 29,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "Terajoules",
+      "metadata": {
+        "chunk_id": 30,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Natural gas",
+      "metadata": {
+        "chunk_id": 31,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "1,928,000",
+      "metadata": {
+        "chunk_id": 32,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "6,941",
+      "metadata": {
+        "chunk_id": 33,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,712,000",
+      "metadata": {
+        "chunk_id": 34,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "6,163",
+      "metadata": {
+        "chunk_id": 35,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,686,000",
+      "metadata": {
+        "chunk_id": 36,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "6,070",
+      "metadata": {
+        "chunk_id": 37,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Jet kerosene",
+      "metadata": {
+        "chunk_id": 38,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "861,000",
+      "metadata": {
+        "chunk_id": 39,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "3,100",
+      "metadata": {
+        "chunk_id": 40,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "804,000",
+      "metadata": {
+        "chunk_id": 41,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,894",
+      "metadata": {
+        "chunk_id": 42,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "544,000",
+      "metadata": {
+        "chunk_id": 43,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,958",
+      "metadata": {
+        "chunk_id": 44,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Fuel oil #2",
+      "metadata": {
+        "chunk_id": 45,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "127,000",
+      "metadata": {
+        "chunk_id": 46,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "457",
+      "metadata": {
+        "chunk_id": 47,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "153,000",
+      "metadata": {
+        "chunk_id": 48,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "551",
+      "metadata": {
+        "chunk_id": 49,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "149,000",
+      "metadata": {
+        "chunk_id": 50,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "536",
+      "metadata": {
+        "chunk_id": 51,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Motor gasoline",
+      "metadata": {
+        "chunk_id": 52,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "24,000",
+      "metadata": {
+        "chunk_id": 53,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "86",
+      "metadata": {
+        "chunk_id": 54,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "21,000",
+      "metadata": {
+        "chunk_id": 55,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "76",
+      "metadata": {
+        "chunk_id": 56,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "21,000",
+      "metadata": {
+        "chunk_id": 57,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "76",
+      "metadata": {
+        "chunk_id": 58,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Propane",
+      "metadata": {
+        "chunk_id": 59,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "11,000",
+      "metadata": {
+        "chunk_id": 60,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "40",
+      "metadata": {
+        "chunk_id": 61,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "10,000",
+      "metadata": {
+        "chunk_id": 62,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "36",
+      "metadata": {
+        "chunk_id": 63,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "12,000",
+      "metadata": {
+        "chunk_id": 64,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "43",
+      "metadata": {
+        "chunk_id": 65,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Liquefied petroleum gas",
+      "metadata": {
+        "chunk_id": 66,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "2,000",
+      "metadata": {
+        "chunk_id": 67,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "7",
+      "metadata": {
+        "chunk_id": 68,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,000",
+      "metadata": {
+        "chunk_id": 69,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "4",
+      "metadata": {
+        "chunk_id": 70,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "–",
+      "metadata": {
+        "chunk_id": 71,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "–",
+      "metadata": {
+        "chunk_id": 72,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Total nonrenewable fuels",
+      "metadata": {
+        "chunk_id": 73,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "2,953,000",
+      "metadata": {
+        "chunk_id": 74,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "10,631",
+      "metadata": {
+        "chunk_id": 75,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,701,000",
+      "metadata": {
+        "chunk_id": 76,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "9,724",
+      "metadata": {
+        "chunk_id": 77,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,412,000",
+      "metadata": {
+        "chunk_id": 78,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "8,683",
+      "metadata": {
+        "chunk_id": 79,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Sustainable aviation fuel",
+      "metadata": {
+        "chunk_id": 80,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "9,000",
+      "metadata": {
+        "chunk_id": 81,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "32",
+      "metadata": {
+        "chunk_id": 82,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "4,000",
+      "metadata": {
+        "chunk_id": 83,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "14",
+      "metadata": {
+        "chunk_id": 84,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,000",
+      "metadata": {
+        "chunk_id": 85,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "7",
+      "metadata": {
+        "chunk_id": 86,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Total renewable fuels",
+      "metadata": {
+        "chunk_id": 87,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "9,000",
+      "metadata": {
+        "chunk_id": 88,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "32",
+      "metadata": {
+        "chunk_id": 89,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "4,000",
+      "metadata": {
+        "chunk_id": 90,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "14",
+      "metadata": {
+        "chunk_id": 91,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,000",
+      "metadata": {
+        "chunk_id": 92,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "7",
+      "metadata": {
+        "chunk_id": 93,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Purchased nonrenewable electricity",
+      "metadata": {
+        "chunk_id": 94,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "1,350,000",
+      "metadata": {
+        "chunk_id": 95,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "4,860",
+      "metadata": {
+        "chunk_id": 96,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,482,000",
+      "metadata": {
+        "chunk_id": 97,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "5,335",
+      "metadata": {
+        "chunk_id": 98,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,686,000",
+      "metadata": {
+        "chunk_id": 99,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "6,070",
+      "metadata": {
+        "chunk_id": 100,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Purchased renewable electricity2",
+      "metadata": {
+        "chunk_id": 101,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "720,000",
+      "metadata": {
+        "chunk_id": 102,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,592",
+      "metadata": {
+        "chunk_id": 103,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "574,000",
+      "metadata": {
+        "chunk_id": 104,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,066",
+      "metadata": {
+        "chunk_id": 105,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "392,000",
+      "metadata": {
+        "chunk_id": 106,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,411",
+      "metadata": {
+        "chunk_id": 107,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Total purchased electricity",
+      "metadata": {
+        "chunk_id": 108,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "2,070,000",
+      "metadata": {
+        "chunk_id": 109,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "7,452",
+      "metadata": {
+        "chunk_id": 110,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,056,000",
+      "metadata": {
+        "chunk_id": 111,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "7,402",
+      "metadata": {
+        "chunk_id": 112,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "2,078,000",
+      "metadata": {
+        "chunk_id": 113,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "7,481",
+      "metadata": {
+        "chunk_id": 114,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Total energy use",
+      "metadata": {
+        "chunk_id": 115,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "5,033,000",
+      "metadata": {
+        "chunk_id": 116,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "18,119",
+      "metadata": {
+        "chunk_id": 117,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "4,761,000",
+      "metadata": {
+        "chunk_id": 118,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "17,410",
+      "metadata": {
+        "chunk_id": 119,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "4,492,000",
+      "metadata": {
+        "chunk_id": 120,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "16,171",
+      "metadata": {
+        "chunk_id": 121,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1. Data represents 100% of the company. 2. Renewable electricity data excludes any renewable energy that is part of the grid by default, in alignment with SASB and other frameworks. Notably, Boeing operates in a number of grids that rely significantly on renewable sources. • Boeing did not sell any electricity, heating or cooling energy.",
+      "metadata": {
+        "chunk_id": 122,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 55
+      }
+    },
+    {
+      "content": "Emissions1",
+      "metadata": {
+        "chunk_id": 123,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Tons CO2e",
+      "metadata": {
+        "chunk_id": 124,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "Metric tons CO2e",
+      "metadata": {
+        "chunk_id": 125,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "Tons CO2e",
+      "metadata": {
+        "chunk_id": 126,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "Metric tons CO2e",
+      "metadata": {
+        "chunk_id": 127,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "Tons CO2e",
+      "metadata": {
+        "chunk_id": 128,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "Metric tons CO2e",
+      "metadata": {
+        "chunk_id": 129,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "Scope 1 GHG2,3",
+      "metadata": {
+        "chunk_id": 130,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 3
+      }
+    },
+    {
+      "content": "708,000",
+      "metadata": {
+        "chunk_id": 131,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "642,000",
+      "metadata": {
+        "chunk_id": 132,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "675,000",
+      "metadata": {
+        "chunk_id": 133,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "612,000",
+      "metadata": {
+        "chunk_id": 134,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "611,000",
+      "metadata": {
+        "chunk_id": 135,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "554,000",
+      "metadata": {
+        "chunk_id": 136,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Scope 2 GHG — location-based2,3",
+      "metadata": {
+        "chunk_id": 137,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "859,000",
+      "metadata": {
+        "chunk_id": 138,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "779,000",
+      "metadata": {
+        "chunk_id": 139,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "830,000",
+      "metadata": {
+        "chunk_id": 140,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "753,000",
+      "metadata": {
+        "chunk_id": 141,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "840,000",
+      "metadata": {
+        "chunk_id": 142,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "762,000",
+      "metadata": {
+        "chunk_id": 143,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Scope 2 GHG — market-based2,3",
+      "metadata": {
+        "chunk_id": 144,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 5
+      }
+    },
+    {
+      "content": "442,000",
+      "metadata": {
+        "chunk_id": 145,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "401,000",
+      "metadata": {
+        "chunk_id": 146,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "493,000",
+      "metadata": {
+        "chunk_id": 147,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "447,000",
+      "metadata": {
+        "chunk_id": 148,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "580,000",
+      "metadata": {
+        "chunk_id": 149,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "526,000",
+      "metadata": {
+        "chunk_id": 150,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Scope 3 GHG — business travel",
+      "metadata": {
+        "chunk_id": 151,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "205,000",
+      "metadata": {
+        "chunk_id": 152,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "186,000",
+      "metadata": {
+        "chunk_id": 153,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "97,000",
+      "metadata": {
+        "chunk_id": 154,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "88,000",
+      "metadata": {
+        "chunk_id": 155,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "101,000",
+      "metadata": {
+        "chunk_id": 156,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "92,000",
+      "metadata": {
+        "chunk_id": 157,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Scope 3 GHG — use of sold products (Commercial Airplanes)3,6",
+      "metadata": {
+        "chunk_id": 158,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 10
+      }
+    },
+    {
+      "content": "400,000,000",
+      "metadata": {
+        "chunk_id": 159,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "363,000,000",
+      "metadata": {
+        "chunk_id": 160,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "306,000,000",
+      "metadata": {
+        "chunk_id": 161,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "278,000,000",
+      "metadata": {
+        "chunk_id": 162,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "246,000,000",
+      "metadata": {
+        "chunk_id": 163,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "223,000,000",
+      "metadata": {
+        "chunk_id": 164,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Scope 3 GHG — use of sold products (Defense, Space & Security)3,6",
+      "metadata": {
+        "chunk_id": 165,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 12
+      }
+    },
+    {
+      "content": "24,000,000",
+      "metadata": {
+        "chunk_id": 166,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "22,000,000",
+      "metadata": {
+        "chunk_id": 167,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "24,000,000",
+      "metadata": {
+        "chunk_id": 168,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "22,000,000",
+      "metadata": {
+        "chunk_id": 169,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "22,000,000",
+      "metadata": {
+        "chunk_id": 170,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "20,000,000",
+      "metadata": {
+        "chunk_id": 171,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Total calculated GHG excluding sold products",
+      "metadata": {
+        "chunk_id": 172,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "1,355,000",
+      "metadata": {
+        "chunk_id": 173,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,229,000",
+      "metadata": {
+        "chunk_id": 174,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,264,000",
+      "metadata": {
+        "chunk_id": 175,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,147,000",
+      "metadata": {
+        "chunk_id": 176,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,292,000",
+      "metadata": {
+        "chunk_id": 177,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1,172,000",
+      "metadata": {
+        "chunk_id": 178,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Core metrics sites GHG — location-based4",
+      "metadata": {
+        "chunk_id": 179,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "724,000",
+      "metadata": {
+        "chunk_id": 180,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "657,000",
+      "metadata": {
+        "chunk_id": 181,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "702,000",
+      "metadata": {
+        "chunk_id": 182,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "637,000",
+      "metadata": {
+        "chunk_id": 183,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "713,000",
+      "metadata": {
+        "chunk_id": 184,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "647,000",
+      "metadata": {
+        "chunk_id": 185,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "Core metrics sites GHG — market-based4",
+      "metadata": {
+        "chunk_id": 186,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 6
+      }
+    },
+    {
+      "content": "323,000",
+      "metadata": {
+        "chunk_id": 187,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "293,000",
+      "metadata": {
+        "chunk_id": 188,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "376,000",
+      "metadata": {
+        "chunk_id": 189,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "341,000",
+      "metadata": {
+        "chunk_id": 190,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "452,000",
+      "metadata": {
+        "chunk_id": 191,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "410,000",
+      "metadata": {
+        "chunk_id": 192,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "GHG Intensity5",
+      "metadata": {
+        "chunk_id": 193,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "$0.00002",
+      "metadata": {
+        "chunk_id": 194,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "$0.00002",
+      "metadata": {
+        "chunk_id": 195,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "$0.00002",
+      "metadata": {
+        "chunk_id": 196,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "1. Emissions (Enterprise Scope 1, Scope 2, and Scope 3 Categories 6 and 11) data is verified by an accredited independent third party to the level of limited assurance, see assurance statements. 2. Scope 1 and Scope 2 data represents 100% of the company. 3. For Scopes 1, 2 and 3, we calculate emissions from CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3 for this data set. 4. Core metrics sites data represents emissions of CO2, CH4 and N2O where we track a subset of emissions from natural gas combustion and purchased electricity associated with sites that represent the majority (70%) of Boeing operations. 5. GHG intensity includes Scope 1 and Scope 2 (market-based) GHG (CO2, CH4, N2O, HFCs, PFCs, SF6 and NF3). 6. Use of sold products emissions are based on estimated lifetime emissions of Boeing Commercial Airplanes and Boeing Defense Services product deliveries in 2022, including direct emissions from combustion of fuel (335M tonnes) and indirect emissions from production of fuel (50M tonnes).",
+      "metadata": {
+        "chunk_id": 197,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 165
+      }
+    }
+  ]
+}

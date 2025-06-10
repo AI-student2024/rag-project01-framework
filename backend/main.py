@@ -4,7 +4,7 @@ from datetime import datetime
 from fastapi import FastAPI, UploadFile, File, Form, HTTPException, Body, Query, Request, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from services.loading_service import LoadingService
-from services.chunking_service import ChunkingService
+from services.chunking_service import ChunkingService, ChunkingConfig
 from services.embedding_service import EmbeddingService, EmbeddingConfig
 from services.vector_store_service import VectorStoreService, VectorDBConfig
 from services.search_service import SearchService
@@ -152,13 +152,14 @@ async def embed_document(data: dict = Body(...)):
         # 直接使用完整文件名查找
         loaded_path = os.path.join("01-loaded-docs", doc_id)
         chunked_path = os.path.join("01-chunked-docs", doc_id)
-        
+        parsed_path = os.path.join("01-parsed-docs", doc_id)
         doc_path = None
         if os.path.exists(loaded_path):
             doc_path = loaded_path
         elif os.path.exists(chunked_path):
             doc_path = chunked_path
-            
+        elif os.path.exists(parsed_path):
+            doc_path = parsed_path
         if not doc_path:
             raise HTTPException(status_code=404, detail=f"Document not found: {doc_id}")
             
@@ -421,6 +422,22 @@ async def get_documents(type: str = Query("all")):
                                 "name": filename,  # 保持原始文件名
                                 "type": "chunked"
                             })
+
+        # 读取parsed文档
+        if type in ["all", "parsed"]:
+            parsed_dir = "01-parsed-docs"
+            if os.path.exists(parsed_dir):
+                for filename in os.listdir(parsed_dir):
+                    if filename.endswith('.json'):
+                        file_path = os.path.join(parsed_dir, filename)
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            doc_data = json.load(f)
+                            documents.append({
+                                "id": filename,
+                                "name": filename,  # 保持原始文件名
+                                "type": "parsed",
+                                "metadata": doc_data.get("metadata", {})
+                            })
         
         return {"documents": documents}
     except Exception as e:
@@ -550,7 +567,8 @@ async def delete_embedded_doc(doc_name: str):
 async def parse_file(
     file: UploadFile = File(...),
     loading_method: str = Form(...),
-    parsing_option: str = Form(...)
+    parsing_option: str = Form(...),
+    file_type: str = Form('pdf')
 ):
     try:
         # Save uploaded file
@@ -558,7 +576,7 @@ async def parse_file(
         with open(temp_path, "wb") as buffer:
             content = await file.read()
             buffer.write(content)
-        
+        # print("DEBUG: temp_path =", temp_path)
         # Prepare metadata
         metadata = {
             "filename": file.filename,
@@ -569,23 +587,37 @@ async def parse_file(
         }
         
         loading_service = LoadingService()
-        raw_text = loading_service.load_pdf(temp_path, loading_method)
+        raw_text = loading_service.load_file(temp_path, loading_method)
+        # print("DEBUG: main.py 读取到的raw_text前200字符：", raw_text[:200])
         metadata["total_pages"] = loading_service.get_total_pages()
         
         page_map = loading_service.get_page_map()
         
         parsing_service = ParsingService()
-        parsed_content = parsing_service.parse_pdf(
-            raw_text, 
-            parsing_option, 
-            metadata,
-            page_map=page_map
+        document_data = parsing_service.parse_document(
+            text=raw_text,
+            method=parsing_option,
+            metadata=metadata,
+            page_map=page_map,
+            file_type=file_type
         )
         
         # Clean up temp file
         os.remove(temp_path)
         
-        return {"parsed_content": parsed_content}
+        # === 新增：持久化存储解析结果 ===
+        output_dir = os.path.join("01-parsed-docs")
+        os.makedirs(output_dir, exist_ok=True)
+        base_name = file.filename.replace('.pdf', '').replace('.md', '')
+        method = parsing_option
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        output_filename = f"{base_name}_{method}_{timestamp}.json"
+        output_path = os.path.join(output_dir, output_filename)
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(document_data, f, ensure_ascii=False, indent=2)
+        # ==========================
+        
+        return {"parsed_content": document_data, "filepath": output_path}
     except Exception as e:
         logger.error(f"Error parsing file: {str(e)}")
         raise
@@ -700,6 +732,10 @@ async def chunk_document(data: dict = Body(...)):
         doc_id = data.get("doc_id")
         chunking_option = data.get("chunking_option")
         chunk_size = data.get("chunk_size", 1000)
+        chunk_overlap = data.get("chunk_overlap", 200)
+        min_chunk_size = data.get("min_chunk_size", 100)
+        max_chunk_size = data.get("max_chunk_size", 5000)
+        semantic_threshold = data.get("semantic_threshold", 0.7)
         
         if not doc_id or not chunking_option:
             raise HTTPException(
@@ -737,7 +773,11 @@ async def chunk_document(data: dict = Body(...)):
             method=chunking_option,
             metadata=metadata,
             page_map=page_map,
-            chunk_size=chunk_size
+            chunk_size=chunk_size,
+            chunk_overlap=chunk_overlap,
+            min_chunk_size=min_chunk_size,
+            max_chunk_size=max_chunk_size,
+            semantic_threshold=semantic_threshold
         )
         
         # 生成输出文件名
@@ -988,4 +1028,56 @@ async def get_search_result(file_id: str):
             
     except Exception as e:
         logger.error(f"Error reading search result file: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/parsed-docs")
+async def list_parsed_docs():
+    try:
+        docs = []
+        docs_dir = "01-parsed-docs"
+        if not os.path.exists(docs_dir):
+            return {"documents": []}
+        for filename in os.listdir(docs_dir):
+            if filename.endswith('.json'):
+                file_path = os.path.join(docs_dir, filename)
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    doc_data = json.load(f)
+                    docs.append({
+                        "id": filename,
+                        "name": filename,
+                        "metadata": doc_data.get("metadata", {}),
+                        "created_at": doc_data.get("metadata", {}).get("timestamp", "")
+                    })
+        
+        # 按创建时间倒序排序
+        docs.sort(key=lambda x: x["created_at"], reverse=True)
+        
+        return {"documents": docs}
+    except Exception as e:
+        logger.error(f"Error listing parsed documents: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/parsed-docs/{doc_name}")
+async def get_parsed_doc(doc_name: str):
+    try:
+        file_path = os.path.join("01-parsed-docs", doc_name)
+        if not os.path.exists(file_path):
+            raise HTTPException(status_code=404, detail="Document not found")
+        with open(file_path, 'r', encoding='utf-8') as f:
+            doc_data = json.load(f)
+        return doc_data
+    except Exception as e:
+        logger.error(f"Error reading parsed document: {str(e)}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.delete("/parsed-docs/{doc_name}")
+async def delete_parsed_doc(doc_name: str):
+    try:
+        file_path = os.path.join("01-parsed-docs", doc_name)
+        if not os.path.exists(file_path):
+            raise HTTPException(status_code=404, detail="Document not found")
+        os.remove(file_path)
+        return {"status": "success", "message": f"Document {doc_name} deleted successfully"}
+    except Exception as e:
+        logger.error(f"Error deleting parsed document: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e)) 

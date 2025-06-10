@@ -1,0 +1,14 @@
+{
+  "filename": "黑神话悟空.csv",
+  "total_chunks": 0,
+  "total_pages": 6,
+  "loading_method": "csv",
+  "chunking_method": "fixed_size",
+  "chunking_config": {
+    "chunk_size": 20,
+    "chunk_overlap": 5,
+    "min_chunk_size": 100
+  },
+  "timestamp": "2025-06-10T15:47:35.758681",
+  "chunks": []
+}

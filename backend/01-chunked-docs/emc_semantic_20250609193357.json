@@ -1,0 +1,16 @@
+{
+  "filename": "emc.pdf",
+  "total_chunks": 0,
+  "total_pages": 6,
+  "loading_method": "pymupdf",
+  "chunking_method": "semantic",
+  "chunking_config": {
+    "chunk_size": 10,
+    "chunk_overlap": 3,
+    "min_chunk_size": 10,
+    "max_chunk_size": 300,
+    "semantic_threshold": 0.7
+  },
+  "timestamp": "2025-06-09T19:33:57.438532",
+  "chunks": []
+}

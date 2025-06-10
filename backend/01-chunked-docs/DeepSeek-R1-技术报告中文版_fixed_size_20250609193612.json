@@ -1,0 +1,1889 @@
+{
+  "filename": "DeepSeek-R1-技术报告中文版.pdf",
+  "total_chunks": 208,
+  "total_pages": 5,
+  "loading_method": "pypdf",
+  "chunking_method": "fixed_size",
+  "chunking_config": {
+    "chunk_size": 10,
+    "chunk_overlap": 3,
+    "min_chunk_size": 10,
+    "max_chunk_size": 300,
+    "semantic_threshold": 0.7
+  },
+  "timestamp": "2025-06-09T19:36:12.498608",
+  "chunks": [
+    {
+      "content": "\n(Pass@1)Codeforces",
+      "metadata": {
+        "chunk_id": 1,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n(Percentile)GPQA",
+      "metadata": {
+        "chunk_id": 2,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n(Pass@1)MATH-500",
+      "metadata": {
+        "chunk_id": 3,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n(Pass@1)MMLU",
+      "metadata": {
+        "chunk_id": 4,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n(Pass@1)SWE-bench",
+      "metadata": {
+        "chunk_id": 5,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n(Resolved)020406080100",
+      "metadata": {
+        "chunk_id": 6,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " Percentile",
+      "metadata": {
+        "chunk_id": 7,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": ".0DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 8,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " OpenAI-o1-1217",
+      "metadata": {
+        "chunk_id": 9,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-32B",
+      "metadata": {
+        "chunk_id": 10,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " OpenAI-o1-mini",
+      "metadata": {
+        "chunk_id": 11,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 12,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nresearch@deepseek",
+      "metadata": {
+        "chunk_id": 13,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n我们推出了第一代推理模型，",
+      "metadata": {
+        "chunk_id": 14,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 15,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 16,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 17,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）训练而成的模型，无需监督微调（",
+      "metadata": {
+        "chunk_id": 18,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）作为初步步骤，展示了卓越",
+      "metadata": {
+        "chunk_id": 19,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ，DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 20,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 自然涌现出许多强大且有趣的推理行为",
+      "metadata": {
+        "chunk_id": 21,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n面临诸如可读性差和语言混合等挑战",
+      "metadata": {
+        "chunk_id": 22,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。为了解决这些问题并进一步提升推理性能，我们推出了",
+      "metadata": {
+        "chunk_id": 23,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nDeepSeek-R1",
+      "metadata": {
+        "chunk_id": 24,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 之前引入了多阶段训练和冷启动数据",
+      "metadata": {
+        "chunk_id": 25,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 26,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " OpenAI-o1-1217",
+      "metadata": {
+        "chunk_id": 27,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。为了支持研究社区，我们开源了",
+      "metadata": {
+        "chunk_id": 28,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 29,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 30,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 蒸馏出的六个密集模型（",
+      "metadata": {
+        "chunk_id": 31,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 32,
+        "page_number": 1,
+        "page_range": "1",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 33,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Z",
+      "metadata": {
+        "chunk_id": 34,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 的性能、自我进化过程和顿悟时刻",
+      "metadata": {
+        "chunk_id": 35,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 36,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": ". . 10  \u00002",
+      "metadata": {
+        "chunk_id": 37,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 4
+      }
+    },
+    {
+      "content": ". . 10  \u00002",
+      "metadata": {
+        "chunk_id": 38,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 4
+      }
+    },
+    {
+      "content": ".4 全场景强化学习",
+      "metadata": {
+        "chunk_id": 39,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2
+      }
+    },
+    {
+      "content": ". . 11  \u00002",
+      "metadata": {
+        "chunk_id": 40,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 4
+      }
+    },
+    {
+      "content": " 蒸馏：赋予小模型推理能力",
+      "metadata": {
+        "chunk_id": 41,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 42,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": ".1 蒸馏与强化学习",
+      "metadata": {
+        "chunk_id": 43,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 2
+      }
+    },
+    {
+      "content": " 结论、局限性与未来工作",
+      "metadata": {
+        "chunk_id": 44,
+        "page_number": 2,
+        "page_range": "2",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n近年来，大型语言模型（",
+      "metadata": {
+        "chunk_id": 45,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）经历了快速的迭代和进化（",
+      "metadata": {
+        "chunk_id": 46,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " Anthropic,",
+      "metadata": {
+        "chunk_id": 47,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ），逐步缩小了与人工通用智能（",
+      "metadata": {
+        "chunk_id": 48,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n最近，后训练已成为完整训练流程中的一个重要组成部分",
+      "metadata": {
+        "chunk_id": 49,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。它已被证明可以提高推理任务的",
+      "metadata": {
+        "chunk_id": 50,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n准确性，与社会价值观保持一致，并适应用户偏好，同时相对于预训练所需的计算资源相对较",
+      "metadata": {
+        "chunk_id": 51,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）系列模型首次通过增加思维链推理过程的",
+      "metadata": {
+        "chunk_id": 52,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n长度引入了推理时扩展",
+      "metadata": {
+        "chunk_id": 53,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。这种方法在数学、编码和科学推理等各种推理任务中取得了显著改进",
+      "metadata": {
+        "chunk_id": 54,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。然而，有效的测试时扩展仍然是研究界的一个开放性问题",
+      "metadata": {
+        "chunk_id": 55,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。之前的一些工作探索了各种方法",
+      "metadata": {
+        "chunk_id": 56,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n，包括基于过程的奖励模型（",
+      "metadata": {
+        "chunk_id": 57,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）以及蒙特卡洛树搜索和束搜索等搜索算法（",
+      "metadata": {
+        "chunk_id": 58,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。然而，这些方法都没有达到与",
+      "metadata": {
+        "chunk_id": 59,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 系列模型相媲美的通用推理性能",
+      "metadata": {
+        "chunk_id": 60,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n在本文中，我们迈出了利用纯强化学习（",
+      "metadata": {
+        "chunk_id": 61,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）提升语言模型推理能力的第一步",
+      "metadata": {
+        "chunk_id": 62,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n是探索大型语言模型（",
+      "metadata": {
+        "chunk_id": 63,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）在没有监督数据的情况下发展推理能力的潜力，重点关注它们通",
+      "metadata": {
+        "chunk_id": 64,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。具体而言，我们使用",
+      "metadata": {
+        "chunk_id": 65,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3-Base",
+      "metadata": {
+        "chunk_id": 66,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 作为基础模型，并采用",
+      "metadata": {
+        "chunk_id": 67,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 框架，以提升模型在推理任务中的表现",
+      "metadata": {
+        "chunk_id": 68,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Z",
+      "metadata": {
+        "chunk_id": 69,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 自然涌现出许多强大且有趣的推理行为",
+      "metadata": {
+        "chunk_id": 70,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 71,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n准测试中展现出卓越的性能",
+      "metadata": {
+        "chunk_id": 72,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n数投票机制下，得分进一步提高至",
+      "metadata": {
+        "chunk_id": 73,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ，与OpenAI-o1-0912",
+      "metadata": {
+        "chunk_id": 74,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n然而，DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 75,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 遇到了诸如可读性差和语言混合等挑战",
+      "metadata": {
+        "chunk_id": 76,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。为了解决这些问题并进一",
+      "metadata": {
+        "chunk_id": 77,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n步提升推理性能，我们引入了",
+      "metadata": {
+        "chunk_id": 78,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 79,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ，它结合了少量冷启动数据和多阶段训练流程",
+      "metadata": {
+        "chunk_id": 80,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n来说，我们首先收集数千条冷启动数据来微调",
+      "metadata": {
+        "chunk_id": 81,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3-Base",
+      "metadata": {
+        "chunk_id": 82,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。随后，我们进行类似",
+      "metadata": {
+        "chunk_id": 83,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 84,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 的推理导向强化学习（",
+      "metadata": {
+        "chunk_id": 85,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 过程接近收敛时，我们通过对",
+      "metadata": {
+        "chunk_id": 86,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n行拒绝采样，结合来自",
+      "metadata": {
+        "chunk_id": 87,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3",
+      "metadata": {
+        "chunk_id": 88,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 在写作、事实问答和自我认知等领域的监督数据，创建新",
+      "metadata": {
+        "chunk_id": 89,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3-Base",
+      "metadata": {
+        "chunk_id": 90,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。使用新数据微调后，检查点会经历额外的",
+      "metadata": {
+        "chunk_id": 91,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 过程，考虑所有场景的提示",
+      "metadata": {
+        "chunk_id": 92,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。经过这些步骤，我们获得了称为",
+      "metadata": {
+        "chunk_id": 93,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 94,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " OpenAI-o1-1217",
+      "metadata": {
+        "chunk_id": 95,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 96,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 到更小密集模型的蒸馏过程",
+      "metadata": {
+        "chunk_id": 97,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）为基础模型，直接从",
+      "metadata": {
+        "chunk_id": 98,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 99,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 进行蒸馏的效果优于在其上应用强化学习",
+      "metadata": {
+        "chunk_id": 100,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n基础模型发现的推理模式对于提升推理能力至关重要",
+      "metadata": {
+        "chunk_id": 101,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。我们开源了蒸馏后的",
+      "metadata": {
+        "chunk_id": 102,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。值得注意的是，我们蒸馏的",
+      "metadata": {
+        "chunk_id": 103,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 模型大幅超越了当前最先进的开源",
+      "metadata": {
+        "chunk_id": 104,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 模型在密集模型的推理基准测试中创下了新纪录",
+      "metadata": {
+        "chunk_id": 105,
+        "page_number": 3,
+        "page_range": "3",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n训练后：在基础模型上进行大规模强化学习",
+      "metadata": {
+        "chunk_id": 106,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 我们直接将强化学习（",
+      "metadata": {
+        "chunk_id": 107,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）应用于基础模型，而不依赖于监督微调（",
+      "metadata": {
+        "chunk_id": 108,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。这种方法使模型能够探索思维链（",
+      "metadata": {
+        "chunk_id": 109,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）以解决复杂问题，从而开发出",
+      "metadata": {
+        "chunk_id": 110,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Zer",
+      "metadata": {
+        "chunk_id": 111,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 112,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 展示了自我验证、反思和生成长思维链等能力，标志着研究社区的一",
+      "metadata": {
+        "chunk_id": 113,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。值得注意的是，这是首个公开的研究，验证了",
+      "metadata": {
+        "chunk_id": 114,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。这一突破为这一领域的未来进展铺平了道路",
+      "metadata": {
+        "chunk_id": 115,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 116,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 阶段，旨在发现改进的推理模式",
+      "metadata": {
+        "chunk_id": 117,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n并与人类偏好对齐，以及两个",
+      "metadata": {
+        "chunk_id": 118,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 阶段，作为模型推理和非推理能力的基础",
+      "metadata": {
+        "chunk_id": 119,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n流程将通过创建更好的模型为行业带来益处",
+      "metadata": {
+        "chunk_id": 120,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n蒸馏：小型模型也能强大",
+      "metadata": {
+        "chunk_id": 121,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 我们证明了较大模型的推理模式可以被提炼到较小的模型中，与通过强化学习在小模型上",
+      "metadata": {
+        "chunk_id": 122,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n发现的推理模式相比，性能更优",
+      "metadata": {
+        "chunk_id": 123,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 124,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 将有益于研究社区在未来提",
+      "metadata": {
+        "chunk_id": 125,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 利用DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 126,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 生成的推理数据，我们对研究社区中广泛使用的多个密集模型进行了微",
+      "metadata": {
+        "chunk_id": 127,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。评估结果表明，经过蒸馏的较小密集模型在基准测试中表现尤为出色",
+      "metadata": {
+        "chunk_id": 128,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-",
+      "metadata": {
+        "chunk_id": 129,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nDistill-Qwen-7B",
+      "metadata": {
+        "chunk_id": 130,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " QwQ-32B-Preview",
+      "metadata": {
+        "chunk_id": 131,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nR1-Distill-Qwen-32B",
+      "metadata": {
+        "chunk_id": 132,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ，在MATH-500",
+      "metadata": {
+        "chunk_id": 133,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。这些结果显著优于之前的开源模型，并与",
+      "metadata": {
+        "chunk_id": 134,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": ".5 和Llama3",
+      "metadata": {
+        "chunk_id": 135,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2
+      }
+    },
+    {
+      "content": ".2. 评估结果总结",
+      "metadata": {
+        "chunk_id": 136,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2
+      }
+    },
+    {
+      "content": " ）DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 137,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " OpenAI-o1-1217",
+      "metadata": {
+        "chunk_id": 138,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 上，它获得了令人印象深刻的",
+      "metadata": {
+        "chunk_id": 139,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nAI-o1-1217",
+      "metadata": {
+        "chunk_id": 140,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 表现相当，并显著优于其他模型",
+      "metadata": {
+        "chunk_id": 141,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）在与编码相关的任务中，",
+      "metadata": {
+        "chunk_id": 142,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 143,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n在代码竞赛任务中展示了专家水平，它在",
+      "metadata": {
+        "chunk_id": 144,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " Codeforces",
+      "metadata": {
+        "chunk_id": 145,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": ".3% 的人类参赛者",
+      "metadata": {
+        "chunk_id": 146,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2
+      }
+    },
+    {
+      "content": "。对于工程相关任务，",
+      "metadata": {
+        "chunk_id": 147,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 148,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3",
+      "metadata": {
+        "chunk_id": 149,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n可能有助于开发人员在现实世界任务中取得更好的成果",
+      "metadata": {
+        "chunk_id": 150,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 151,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3",
+      "metadata": {
+        "chunk_id": 152,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。虽然在这些基准测试中其表现略低于",
+      "metadata": {
+        "chunk_id": 153,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " OpenAI-o1-1217",
+      "metadata": {
+        "chunk_id": 154,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ，但DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 155,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n了其他闭源模型，展示了其在教育任务中的竞争优势",
+      "metadata": {
+        "chunk_id": 156,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3",
+      "metadata": {
+        "chunk_id": 157,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ，展示了其处理基于事实的查询的能力",
+      "metadata": {
+        "chunk_id": 158,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。类似趋势在 Ope",
+      "metadata": {
+        "chunk_id": 159,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 2
+      }
+    },
+    {
+      "content": " 的基准测试中也有所体现",
+      "metadata": {
+        "chunk_id": 160,
+        "page_number": 4,
+        "page_range": "4",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 161,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 在多种任务中也表现出色，包括创意写作、通用问答、编辑、摘",
+      "metadata": {
+        "chunk_id": 162,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " AlpacaEval",
+      "metadata": {
+        "chunk_id": 163,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " Are-naHard",
+      "metadata": {
+        "chunk_id": 164,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 的胜率，展示了其智能处理非应试查询的强大能力",
+      "metadata": {
+        "chunk_id": 165,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 166,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n文理解的任务上表现出色，在长上下文基准测试中显著优于",
+      "metadata": {
+        "chunk_id": 167,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-V3",
+      "metadata": {
+        "chunk_id": 168,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n先前的工作严重依赖大量监督数据来提升模型性能",
+      "metadata": {
+        "chunk_id": 169,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。在本研究中，我们证明了即使不使用监督",
+      "metadata": {
+        "chunk_id": 170,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）作为冷启动，通过大规模强化学习（",
+      "metadata": {
+        "chunk_id": 171,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）也能显著提升推理能力",
+      "metadata": {
+        "chunk_id": 172,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n量冷启动数据可以进一步提升性能",
+      "metadata": {
+        "chunk_id": 173,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。在接下来的章节中，我们将介绍：（",
+      "metadata": {
+        "chunk_id": 174,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 175,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 应用于基础模型，不使用任何",
+      "metadata": {
+        "chunk_id": 176,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 177,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）示例微调的检查点开始应用",
+      "metadata": {
+        "chunk_id": 178,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）将DeepSeek-R1",
+      "metadata": {
+        "chunk_id": 179,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 的推理能力蒸馏到小型密",
+      "metadata": {
+        "chunk_id": 180,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " DeepSeek-R1-Zero",
+      "metadata": {
+        "chunk_id": 181,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ：基础模型上的强化学习",
+      "metadata": {
+        "chunk_id": 182,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n强化学习在推理任务中展现了显著的有效性，正如我们之前的工作所证明的那样（",
+      "metadata": {
+        "chunk_id": 183,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。然而，这些工作严重依赖于监督数据，而这些数据的收集非常耗时",
+      "metadata": {
+        "chunk_id": 184,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n本节中，我们探索了大型语言模型（",
+      "metadata": {
+        "chunk_id": 185,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ）在没有监督数据的情况下发展推理能力的潜力，重",
+      "metadata": {
+        "chunk_id": 186,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n点关注它们通过纯强化学习过程的自我进化",
+      "metadata": {
+        "chunk_id": 187,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。我们首先简要概述了我们的强化学习算法，随后",
+      "metadata": {
+        "chunk_id": 188,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n展示了一些令人兴奋的结果，并希望这能为社区提供有价值的见解",
+      "metadata": {
+        "chunk_id": 189,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": ".ReinforcementLearningAlgorithm",
+      "metadata": {
+        "chunk_id": 190,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 为了节省强化学习的训练成本，我们采用了群体相对策略优化（",
+      "metadata": {
+        "chunk_id": 191,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " ），该方法放弃了通常与策略模型大小相同的评论家模型，转而从群体分数中估计",
+      "metadata": {
+        "chunk_id": 192,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "。具体来说，对于每个问题",
+      "metadata": {
+        "chunk_id": 193,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 中采样一组输出{𝑜1",
+      "metadata": {
+        "chunk_id": 194,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n通过最大化以下目标来优化策略模型",
+      "metadata": {
+        "chunk_id": 195,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nJ𝐺𝑅𝑃𝑂(𝜃)=E[𝑞∼𝑃(𝑄),{𝑜𝑖}𝐺",
+      "metadata": {
+        "chunk_id": 196,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝑖=1∼𝜋𝜃𝑜𝑙𝑑(𝑂|𝑞)]",
+      "metadata": {
+        "chunk_id": 197,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\nmin\u0012𝜋𝜃(𝑜𝑖|𝑞)",
+      "metadata": {
+        "chunk_id": 198,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝜋𝜃𝑜𝑙𝑑(𝑜𝑖|𝑞)𝐴𝑖,clip\u0012𝜋𝜃(𝑜𝑖|𝑞)",
+      "metadata": {
+        "chunk_id": 199,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝜋𝜃𝑜𝑙𝑑(𝑜𝑖|𝑞),1−𝜀,1+𝜀\u0013",
+      "metadata": {
+        "chunk_id": 200,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝜋𝜃||𝜋𝑟𝑒𝑓\u0001\u0013",
+      "metadata": {
+        "chunk_id": 201,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝜋𝜃||𝜋𝑟𝑒𝑓\u0001=𝜋𝑟𝑒𝑓(𝑜𝑖|𝑞)",
+      "metadata": {
+        "chunk_id": 202,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝜋𝜃(𝑜𝑖|𝑞)−log𝜋𝑟𝑒𝑓(𝑜𝑖|𝑞)",
+      "metadata": {
+        "chunk_id": 203,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝜋𝜃(𝑜𝑖|𝑞)−1,",
+      "metadata": {
+        "chunk_id": 204,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 是优势，通过使用一组奖励",
+      "metadata": {
+        "chunk_id": 205,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": " 来计算，这些奖励对应",
+      "metadata": {
+        "chunk_id": 206,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\n𝐴𝑖=𝑟𝑖−m𝑒𝑎𝑛({𝑟1,𝑟2,···,𝑟𝐺})",
+      "metadata": {
+        "chunk_id": 207,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    },
+    {
+      "content": "\ns𝑡𝑑({𝑟1,𝑟2,···,𝑟𝐺})",
+      "metadata": {
+        "chunk_id": 208,
+        "page_number": 5,
+        "page_range": "5",
+        "word_count": 1
+      }
+    }
+  ]
+}
